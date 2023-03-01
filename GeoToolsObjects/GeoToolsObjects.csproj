@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Geo" Version="1.0.0" />
+    <PackageReference Include="SharpKml.Core" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

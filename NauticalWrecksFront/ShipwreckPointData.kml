@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Akandia 1">
+    <name />
+    <description>Name 1: Akandia 1
+Name 2: 
+Start Date: -50
+End Date: 100
+Data source: DateQ: ca
+YearFound: 1974
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 270 Roman Rhodian of 22 and 11 liters
+Type2: 
+Type3: 
+Width: 11.00
+Capacity: 
+Comments: 550 m NE of bay; previously looted
+Length: 15.00
+Width: 11.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>28.25,36.433,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

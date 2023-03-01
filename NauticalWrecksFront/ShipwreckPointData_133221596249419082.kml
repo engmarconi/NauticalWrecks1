@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Camarina 4">
+    <name />
+    <description>Name 1: Camarina 4
+Name 2: 
+Start Date: 270
+End Date: 270
+Data source: DateQ: ca
+YearFound: 
+Cargo1: coins
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 1000 coins
+Type2: 
+Type3: 
+Width: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.449999999999999,36.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

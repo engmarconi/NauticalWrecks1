@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Livorno (Italy)">
+    <name />
+    <description>Name 1: Livorno (Italy)
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 4 Roman portrait busts
+Type2: 
+Type3: 
+Width: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.282999999999999,43.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
