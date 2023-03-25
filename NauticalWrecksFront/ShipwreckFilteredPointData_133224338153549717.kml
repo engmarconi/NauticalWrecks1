@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Nemi 2">
+    <name />
+    <description>Name 1: Nemi 2
+Name 2: 
+Start Date: 35
+End Date: 50
+Data source: DateQ: ca
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 21.000
+Gear: pumps
+Capacity: 
+Comments: pleasure galley
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.717000000000001,41.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta del Diavolo">
+    <name />
+    <description>Name 1: Punta del Diavolo
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: limestone blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 21.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.483000000000001,42.100000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

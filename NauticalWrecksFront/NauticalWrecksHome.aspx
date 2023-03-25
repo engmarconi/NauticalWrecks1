@@ -1,12 +1,15 @@
-﻿<!--
-	
-vers    Date            Coder       Issue
-1.0     2023-02-22      Chido       Original  version
-2.0		2023-02-25		Chido		'Heat Map Footprint' link to the Map page currently working. Modified the names web page and button names.
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="NauticalWrecksHome.aspx.cs" Inherits="NauticalWrecksFront.WebTemplate" %>
 
+<!--
+
+Date			Coder		vers		Issue
+2023-02-22      Chido       3.2.1       Original  version. Home page builing and styling with mockup javascript                                   
+2023-03-26      Chido       3.3.1       Additional editing on naming and writeups 
+
+
+                       
 -->
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="NauticalWrecksHome.aspx.cs" Inherits="NauticalWrecksFront.WebTemplate" %>
 
 <!DOCTYPE html>
 
@@ -27,9 +30,9 @@ vers    Date            Coder       Issue
 
 		<div class="subhead">
 		<ul>
-		<li><a href="#">Nautical Wrecks Map Locations</a></li>
-		<li><a href="#">Wreckage Pictures</a></li>
-		<li><a href="NauticalWrecksMap.aspx">Heat Map Footprint</a></li>	
+		<%--<li><a href="#">Nautical Wrecks Map Locations</a></li>
+		<li><a href="#">Wreckage Pictures</a></li>--%>
+		<li><a href="NauticalWrecksMap.aspx">Nautical Wrecks Maps</a></li>	
 		</ul>
 		</div>
 		</div>
@@ -80,9 +83,9 @@ vers    Date            Coder       Issue
 
 <footer></footer>
 
-	<script src="Scripts/Mockup.js">
+	<%--<script src="Scripts/Mockup.js">
         
-    </script>
+    </script>--%>
 
 
 		<!--This is the call to Google to load our code from initMap See the API Key required. See the name of the function that is being called initMap()-->

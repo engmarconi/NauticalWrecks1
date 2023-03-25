@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Salakta">
+    <name />
+    <description>Name 1: Salakta
+Name 2: 
+Start Date: 200
+End Date: 225
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: marble carved blocks,  architrave,  pilaster and plain slabs,  blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.067,35.332999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

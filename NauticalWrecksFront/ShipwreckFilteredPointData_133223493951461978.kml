@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Culip 6">
+    <name />
+    <description>Name 1: Culip 6
+Name 2: 
+Start Date: 1350
+End Date: 1400
+Data source: E. Rieth 1998,  205-212.DateQ: ca / ?
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: meat; butchered sheep/goat,  cattle,  horse,  pig,  fowl
+Type1: pottery from Granada and Languedoc
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: Rieth says beginning of 14th C.; probably Catalan origin; preserved hull (11m of the bottom of hull preserved)
+Length: 
+Width: 
+Data source: E. Rieth 1998,  205-212.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.2829999999999999,42.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Posillipo">
+    <name />
+    <description>Name 1: Posillipo
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: pottery
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: shipboard utensils
+Capacity: 
+Comments: wooden hull,  bronze nails
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.217000000000001,40.75,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Cádiz 4">
+    <name />
+    <description>Name 1: Cádiz 4
+Name 2: 
+Start Date: -25
+End Date: 25
+Data source: DateQ: ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: Dr9 Dr12 Beltran2B
+Type2: lead ingot
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-6.3330000000000002,36.517000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Passero">
+    <name />
+    <description>Name 1: Capo Passero
+Name 2: 
+Start Date: 400
+End Date: 650
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: tiles
+Cargo2: amphoras
+Cargo3: 
+OtherCargo: 
+Type1: roof tiles
+Type2: Byzantine
+Type3: 
+Width: 36.00
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 20.00
+Width: 36.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.15,36.683,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Castelsardo">
+    <name />
+    <description>Name 1: Castelsardo
+Name 2: 
+Start Date: 100
+End Date: 200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.6999999999999993,40.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cavallo 1">
+    <name />
+    <description>Name 1: Cavallo 1
+Name 2: 
+Start Date: 40
+End Date: 50
+Data source: DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: glass
+Cargo3: ceramic
+OtherCargo: bronze lamp,  bronze figurine,  2 coins,  ladle or strainer handle and hook,  5-pronged fishing spear,  50 iron and 50 copper nails, 
+Type1: Dr2-4; 2 Spanish amphoras
+Type2: clear bowls with greenish rim
+Type3: mortarium,  larger Italian terra sigillata plate,  coarseware,  terra sigillata inkwell
+Width: 
+Depth: 12.000
+Gear: sounding-lead,  ballast
+Capacity: 
+Comments: preserved hull,  keel,  some strakes,  some frames
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.25,41.350000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Culip 1">
+    <name><![CDATA[L'Encalladora]]></name>
+    <description><![CDATA[Name 1: Culip 1
+Name 2: L'Encalladora
+Start Date: -50
+End Date: 25
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Pascual1
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.2829999999999999,42.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Garoupe 1,  La">
+    <name />
+    <description>Name 1: Garoupe 1,  La
+Name 2: 
+Start Date: 10
+End Date: 35
+Data source: P. Fiori 1972,  35-44.DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: dolia
+Cargo3: ceramic
+OtherCargo: lead bowl,  lead piping
+Type1: Dr2-4
+Type2: [dolia of capacity of 1000-2000L]
+Type3: mortarium
+Width: 
+Depth: 12.000
+Gear: hemispheric lead container,  terra cotta
+Capacity: 
+Comments: Fiori says wreck occurred in 2nd half of C1 AD
+Length: 
+Width: 
+Data source: P. Fiori 1972,  35-44.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.1500000000000004,43.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ladispoli 1">
+    <name />
+    <description>Name 1: Ladispoli 1
+Name 2: 
+Start Date: 1
+End Date: 15
+Data source: DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: dolia
+Cargo3: ceramic
+OtherCargo: lead jar,  volute lamps,  furniture,  wooden box
+Type1: Dr2-4; Haltern70
+Type2: 
+Type3: Arretine ware
+Width: 
+Depth: 12.000
+Gear: bilge-pump
+Capacity: 
+Comments: well-preserved hull; McCann et al say 25-100?AD
+Length: 20.00
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.050000000000001,41.950000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Lavezzi 3">
+    <name />
+    <description>Name 1: Lavezzi 3
+Name 2: 
+Start Date: 50
+End Date: 100
+Data source: F. Mayet 1987,  289.DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Dr14 Dr17 miniDr14 Pascual 1
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 1-50 AD according to Mayet
+Length: 
+Width: 
+Data source: F. Mayet 1987,  289.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.25,41.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Little Russel 1">
+    <name />
+    <description>Name 1: Little Russel 1
+Name 2: 
+Start Date: 75
+End Date: 200
+Data source: DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Beltran2B
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.5329999999999999,49.450000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Macchia Tonda,  La">
+    <name />
+    <description>Name 1: Macchia Tonda,  La
+Name 2: 
+Start Date: 50
+End Date: 100
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Dr14,  pear-shaped; flat-bottomed amphora
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: lead anchor stock
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.949999999999999,41.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Nemi 1">
+    <name />
+    <description>Name 1: Nemi 1
+Name 2: 
+Start Date: 35
+End Date: 50
+Data source: DateQ: ca
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: pumps
+Capacity: 
+Comments: pleasure galley
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.717000000000001,41.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Percheles">
+    <name />
+    <description>Name 1: Percheles
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Dr7-11
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.75,36.667000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta Penne 2">
+    <name />
+    <description>Name 1: Punta Penne 2
+Name 2: 
+Start Date: 150
+End Date: 225
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Pan41
+Type2: 
+Type3: 
+Width: 
+Depth: 12.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>17.933,40.683,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

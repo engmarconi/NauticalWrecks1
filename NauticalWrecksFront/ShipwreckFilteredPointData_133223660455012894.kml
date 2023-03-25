@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Alonessos 2">
+    <name />
+    <description>Name 1: Alonessos 2
+Name 2: 
+Start Date: 1100
+End Date: 1200
+Data source: K. Delaporta,  M.E. Jasinski,  and F. Soreide 2006.DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: 
+Capacity: 
+Comments: only surveyed by sonar and preliminary dives. 200m N of Alonissos wreck.  This wreck has not been assigned a precise id in the publication.
+Length: 
+Width: 
+Data source: K. Delaporta,  M.E. Jasinski,  and F. Soreide 2006.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.757999999999999,39.204000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ithaki-Kephalonia">
+    <name />
+    <description><![CDATA[Name 1: Ithaki-Kephalonia
+Name 2: 
+Start Date: -100
+End Date: 100
+Data source: K. Delaporta,  M.E. Jasinski,  and F. Soreide 2006,  79-87.DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Roman ('several thousands' (?))
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: 
+Capacity: 
+Comments: Only surveyed by sonar and preliminary dives. At N end of sound between Itaki and Kephalonia.  This wreck has not been assigned a precise identification in this publication.
+Length: 25.00
+Width: 
+Data source: K. Delaporta,  M.E. Jasinski,  and F. Soreide 2006,  79-87.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>20.646000000000001,38.341999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Formiche di Grosseto 1,  Le">
+    <name />
+    <description>Name 1: Formiche di Grosseto 1,  Le
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: lead anchor stock
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.882999999999999,42.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Hormigas,  Las">
+    <name />
+    <description>Name 1: Hormigas,  Las
+Name 2: 
+Start Date: 425
+End Date: 550
+Data source: DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Keay35
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.65000000000000002,37.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Petit Congloué,  Le">
+    <name />
+    <description>Name 1: Petit Congloué,  Le
+Name 2: 
+Start Date: 40
+End Date: 50
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: dolia
+Cargo3: 
+OtherCargo: 
+Type1: Dr2-4 LaubenheimerG3
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: iron anchor,  galley brick,  pump
+Capacity: 
+Comments: 
+Length: 23.00
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.383,43.167000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Premuda 1">
+    <name />
+    <description>Name 1: Premuda 1
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Dr6A Lam2
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.65,44.317,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

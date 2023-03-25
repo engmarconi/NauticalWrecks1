@@ -33,6 +33,24 @@ namespace NauticalWrecksFront
         protected global::System.Web.UI.WebControls.HiddenField KmlNameProperty;
 
         /// <summary>
+        /// lblRecordsCount control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblRecordsCount;
+
+        /// <summary>
+        /// btnGetAllRecords control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnGetAllRecords;
+
+        /// <summary>
         /// DepthDropDownList control.
         /// </summary>
         /// <remarks>
@@ -112,5 +130,14 @@ namespace NauticalWrecksFront
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList OtherCargoDropDownList;
+
+        /// <summary>
+        /// btnSearchQuery control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSearchQuery;
     }
 }

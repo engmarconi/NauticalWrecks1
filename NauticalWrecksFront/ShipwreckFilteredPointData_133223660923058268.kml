@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Formiche di Grosseto 1,  Le">
+    <name />
+    <description>Name 1: Formiche di Grosseto 1,  Le
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 60.000
+Gear: lead anchor stock
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.882999999999999,42.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

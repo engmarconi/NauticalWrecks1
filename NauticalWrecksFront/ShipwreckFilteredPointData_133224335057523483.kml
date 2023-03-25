@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Lough Lene">
+    <name />
+    <description>Name 1: Lough Lene
+Name 2: 
+Start Date: -100
+End Date: 100
+Data source: Navis I,  Lough Lene,  #25; R.T. Farell 1989,  223-228; A.L. Lanting and J.N. Brindley 1991,  69-70; O hEailidhe 1992,  185-190.DateQ: 
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 1.50
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: Dating of  oak tenon produces a date which according to author may result in early 1st C AD.   Fishing vessel,  Mediterranean tradition construction.  Found on lake bed,  no depth specified on db,  but is 4-5m from IJNA article (1991).
+Length: 8.00
+Width: 1.50
+Data source: Navis I,  Lough Lene,  #25; R.T. Farell 1989,  223-228; A.L. Lanting and J.N. Brindley 1991,  69-70; O hEailidhe 1992,  185-190.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.2370000000000001,53.664999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ma'Agan Michael">
+    <name />
+    <description><![CDATA[Name 1: Ma'Agan Michael
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: S. Kingsley and K. Raveh 1994,  119-128.DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots (5)
+Type2: sounding lead,  2
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: Dating based on shape of ingots (compared to other finds in the Mediterranean,  and inscriptions in Greek and Latin engraved on them,  possibly indicating  workshop origin.
+Length: 
+Width: 
+Data source: S. Kingsley and K. Raveh 1994,  119-128.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.914000000000001,32.555999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Arenella">
+    <name />
+    <description>Name 1: Arenella
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: 
+YearFound: 1984
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: armor weapons
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: iron anchor
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.282999999999999,36.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ayia Galini">
+    <name />
+    <description>Name 1: Ayia Galini
+Name 2: 
+Start Date: 276
+End Date: 290
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: lamps
+Cargo3: coins
+OtherCargo: mid C3 amphora
+Type1: scrap (bronze statue fragments,  statuettes,  tools,  vessels); altar; rings; locks; tools; vessels
+Type2: brass
+Type3: coin hoard closing with Probus (276-282)
+Width: 
+Depth: 5.000
+Gear: shipboard pottery
+Capacity: 
+Comments: lead from hull sheathing,  200 m from shore
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>24.667000000000002,35.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Camarina 3">
+    <name />
+    <description>Name 1: Camarina 3
+Name 2: 
+Start Date: 1100
+End Date: 1200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: pots of iron plates 35 cm in diameter to hold fire
+Type2: hammers,  tongs,  pliers,  nails,  horseshoes,  chain
+Type3: 
+Width: 4.00
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: wooden hull
+Length: 30.00
+Width: 4.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.449999999999999,36.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Carro 1">
+    <name />
+    <description>Name 1: Carro 1
+Name 2: 
+Start Date: 525
+End Date: 550
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: metal
+OtherCargo: 
+Type1: 
+Type2: terra sigillata chiara dish
+Type3: lead bar, lead stock or ingot
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.0330000000000004,43.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Culip 6">
+    <name />
+    <description>Name 1: Culip 6
+Name 2: 
+Start Date: 1350
+End Date: 1400
+Data source: E. Rieth 1998,  205-212.DateQ: ca / ?
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: meat; butchered sheep/goat,  cattle,  horse,  pig,  fowl
+Type1: pottery from Granada and Languedoc
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: Rieth says beginning of 14th C.; probably Catalan origin; preserved hull (11m of the bottom of hull preserved)
+Length: 
+Width: 
+Data source: E. Rieth 1998,  205-212.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.2829999999999999,42.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sainte-Marguerite 2">
+    <name />
+    <description>Name 1: Sainte-Marguerite 2
+Name 2: 
+Start Date: 100
+End Date: 120
+Data source: P. Pomey and L. Long 1993,  51-53.DateQ: c2 - beginning
+YearFound: 
+Cargo1: amphoras
+Cargo2: lamps
+Cargo3: glass
+OtherCargo: 
+Type1: Dr20
+Type2: lamps round,  circular reservoir,  277 well-preserved,  decorated
+Type3: fragments
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: dated from Clo Suc and Fabric Masc lamps
+Length: 
+Width: 
+Data source: P. Pomey and L. Long 1993,  51-53.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0170000000000003,43.517000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Palud, La">
+    <name />
+    <description><![CDATA[Name 1: Palud, La
+Name 2: 
+Start Date: 540
+End Date: 600
+Data source: DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: tiles
+Cargo3: ceramic
+OtherCargo: 
+Type1: Keay62 Keay 55; 2 LR 1,  3fgmts LR 2,  1 LR 4,   1 LR 5
+Type2: roof tiles as well
+Type3: coarseware
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: frame of hull. Parker spells it La Palu,  Long and Volpe identify it as La Palud on isle of Port-Cros. Dated 550-600 according to to Kingsley 2002,  79,  citing Long and Volpe 1998,  338-9. Correct ref = 1998,  p 339,  & they propose ca. 540-560 or ca. 550-600. >90% identified amphora parts are African; 180 identifiable sherds; few eastern amphoras. Total cargo = 150-200 amphoras,  each ca 80-90 liters,  i.e. total cargo of 120-80 hl;  crew ware: ARS Hayes 78,  88,  104A; fine balance. Keay 55 and 62A produced in Nabeul (Neapolis) region workshops; crew's ware came from nearby workshops at Oudha (ARS 99B) and Sidi Khalifa  (ARS 88). LRA 1,  2,  4,  and 5 do not contradict this point of departure,  because they are common at Nabeul: M. Bonifay 2004,  453.
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.383,43,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Posillipo">
+    <name />
+    <description>Name 1: Posillipo
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: pottery
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: shipboard utensils
+Capacity: 
+Comments: wooden hull,  bronze nails
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.217000000000001,40.75,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Salakta">
+    <name />
+    <description>Name 1: Salakta
+Name 2: 
+Start Date: 200
+End Date: 225
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: marble carved blocks,  architrave,  pilaster and plain slabs,  blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.067,35.332999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sorres 4,  Les">
+    <name />
+    <description>Name 1: Sorres 4,  Les
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>2,41.283000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Torre Flavia 1">
+    <name />
+    <description>Name 1: Torre Flavia 1
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: marble
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: columns
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: lead rings
+Capacity: 
+Comments: wood,  copper nails
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.032999999999999,41.950000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

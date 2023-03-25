@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Poel (Timmendorfer Mole) 1">
+    <name />
+    <description>Name 1: Poel (Timmendorfer Mole) 1
+Name 2: 
+Start Date: 1354
+End Date: 1354
+Data source: T. Förster 2000.DateQ: 
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 8.00
+Depth: 2.300
+Gear: ballast
+Capacity: up to 200 tons
+Comments: dendro dated with 30 different samples of pine. 150m north of Timmendorf strand. Could hold up to 200 tons of cargo
+Length: 26.00
+Width: 8.00
+Data source: T. Förster 2000.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.802,53.996000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saint Peter port (Guernsey) 5">
+    <name />
+    <description>Name 1: Saint Peter port (Guernsey) 5
+Name 2: 
+Start Date: 1200
+End Date: 1300
+Data source: J. Adams and J. Black 2004,  230-252.DateQ: ca
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: from LA to 15th c. spread all over the site
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: ballast
+Capacity: 
+Comments: mortice and tenon
+Length: 
+Width: 
+Data source: J. Adams and J. Black 2004,  230-252.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.5270000000000001,49.466999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cape Akritas">
+    <name />
+    <description>Name 1: Cape Akritas
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 10.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>21.867000000000001,36.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Guardis 2,  Na">
+    <name />
+    <description>Name 1: Guardis 2,  Na
+Name 2: 
+Start Date: 1
+End Date: 25
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: oysters
+Type1: PE25 PE41 Dr2-4 Pascual1
+Type2: S Gaulish terra sigillata bowls,  fine-wall beakers,  coarseware
+Type3: 
+Width: 
+Depth: 3.000
+Gear: ballast
+Capacity: 
+Comments: remains of hull
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3,39.299999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Israel">
+    <name />
+    <description>Name 1: Israel
+Name 2: 
+Start Date: 500
+End Date: 600
+Data source: DateQ: 
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: pottery
+Type2: 
+Type3: 
+Width: 
+Depth: 40.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34,32,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Marsala 1">
+    <name />
+    <description>Name 1: Marsala 1
+Name 2: 
+Start Date: 1150
+End Date: 1200
+Data source: DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: small
+Type2: lava mill,  jug
+Type3: 
+Width: 3.00
+Depth: 2.000
+Gear: ballast
+Capacity: 
+Comments: well-preserved Arab ship,  40 m from beach
+Length: 15.00
+Width: 3.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.433,37.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Matala">
+    <name />
+    <description>Name 1: Matala
+Name 2: 
+Start Date: -50
+End Date: 110
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Schoene8
+Type2: 
+Type3: 
+Width: 
+Depth: 8.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>24.75,34.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Megadim 2">
+    <name />
+    <description><![CDATA[Name 1: Megadim 2
+Name 2: 
+Start Date: 1404
+End Date: 1404
+Data source: DateQ: 
+YearFound: 
+Cargo1: coins
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: several hundred thousand,  Mamluk of Sultan Nasser Farage (1399-1412)
+Type2: bronze torches,  copper lamps,  inscribed bronze plaques,  copper dishes,  mortars and pestles,  hinges of wooden chests
+Type3: 
+Width: 
+Depth: 
+Gear: ballast
+Capacity: 
+Comments: ship's hull
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.933,32.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Mellieha">
+    <name />
+    <description>Name 1: Mellieha
+Name 2: 
+Start Date: 200
+End Date: 250
+Data source: DateQ: ca
+YearFound: 
+Cargo1: ceramic
+Cargo2: glass
+Cargo3: amphoras
+OtherCargo: additional cargo: glass cakes,  blue frit,  textile fragments,  tin-alloy measures; stores: domestic pottery,  2 bronze vessels
+Type1: mortaria
+Type2: vessels
+Type3: Kapitän1
+Width: 
+Depth: 9.000
+Gear: ballast
+Capacity: 
+Comments: roof-tiles
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.367000000000001,35.966999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Methone 2">
+    <name />
+    <description>Name 1: Methone 2
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: 
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Medieval Jars
+Type2: 
+Type3: 
+Width: 
+Depth: 30.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>21.699999999999999,36.817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Methone 4">
+    <name />
+    <description>Name 1: Methone 4
+Name 2: 
+Start Date: 100
+End Date: 300
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: tiles
+Cargo3: ceramic
+OtherCargo: glass unguent jar
+Type1: garland sarcophagi
+Type2: roof tiles
+Type3: pottery
+Width: 
+Depth: 
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>21.699999999999999,36.817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Pomègues 1">
+    <name />
+    <description>Name 1: Pomègues 1
+Name 2: 
+Start Date: 200
+End Date: 300
+Data source: F. Mayet 1987,  289.DateQ: 
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: coins
+OtherCargo: lamps
+Type1: Almagro 50 and LaubenheimerG4
+Type2: pottery medallion
+Type3: sestertius of Antoninus Pius (145-161),  middle bronze of Philip I (245-249)
+Width: 
+Depth: 7.000
+Gear: ballast
+Capacity: 
+Comments: hull,  bronze pulley disc
+Length: 
+Width: 
+Data source: F. Mayet 1987,  289.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.2999999999999998,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Porto Cheli">
+    <name />
+    <description>Name 1: Porto Cheli
+Name 2: 
+Start Date: 500
+End Date: 600
+Data source: DateQ: ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: globular
+Type2: 
+Type3: 
+Width: 
+Depth: 7.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.183,37.299999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Puebla del Rio">
+    <name />
+    <description>Name 1: Puebla del Rio
+Name 2: 
+Start Date: 1000
+End Date: 1200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: nothing reported
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 1.20
+Depth: 4.400
+Gear: ballast
+Capacity: 
+Comments: river-boat,  keel and plans preserved
+Length: 10.00
+Width: 1.20
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-6.0330000000000004,37.25,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saliagos">
+    <name />
+    <description>Name 1: Saliagos
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Roman coarse pottery
+Type2: 
+Type3: 
+Width: 
+Depth: 3.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>25.100000000000001,37.033000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Roskilde 1">
+    <name />
+    <description><![CDATA[Name 1: Roskilde 1
+Name 2: 
+Start Date: 1336
+End Date: 1336
+Data source: A. Croome 1999,  382-393.DateQ: 
+YearFound: 
+Cargo1: 
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 1.000
+Gear: 
+Capacity: 
+Comments: Survey find. Dating by dendro of planks. Cargo vessel in oak and pine. 'Nordic' type. Cargo vessel. All Roskilde ships found during foundation work for the Viking ship museum.
+Length: 9.80
+Width: 
+Data source: A. Croome 1999,  382-393.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.079000000000001,55.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon F">
+    <name />
+    <description>Name 1: Tantura Lagoon F
+Name 2: 
+Start Date: 700
+End Date: 750
+Data source: S. Kampbell 2006,  7-10; O. Barkai and Y. Kahanov 2007,  21-31.DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: ceramic
+OtherCargo: 
+Type1: 8 some similar to Yassiada (LR1,  but one handle)
+Type2: 20 for storage (with fish bone remnants) similar to Cesarea stratum 8,  Pella,  Jordan,  Israeli coast from C7
+Type3: 2 juglets similar to ones found at Kellia and Nile delta from C7
+Width: 3.50
+Depth: 1.000
+Gear: two anchors,  rope,  reed,  wooden spoon,  bone needle; fish bones and food remnants (olive pits from central mountains of Israel).
+Capacity: 
+Comments: 70m offshore. Dating by 14C (wood is tamarix,  pinus brutia,  pinus nigra; tamarix from mod. Turkey)
+Length: 12.00
+Width: 3.50
+Data source: S. Kampbell 2006,  7-10; O. Barkai and Y. Kahanov 2007,  21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Plaia">
+    <name />
+    <description>Name 1: Capo Plaia
+Name 2: 
+Start Date: 200
+End Date: 275
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: stone
+OtherCargo: 
+Type1: Afr1 Tripolitanian
+Type2: small jug
+Type3: grinding stone
+Width: 
+Depth: 1.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.933,38.017000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 2001/1">
+    <name />
+    <description><![CDATA[Name 1: Dor 2001/1
+Name 2: 
+Start Date: 420
+End Date: 540
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: 
+Type1: sandstone (kurkar,  80 in number) porba local
+Type2: Yassi Ada
+Type3: Gaza ware; Byzantine cooking pots
+Width: 4.50
+Depth: 1.000
+Gear: rope,  mat on ceiling of ship, 
+Capacity: 
+Comments: Dating by 14C,  on ten samples from planking (oak,  pine,  beech,  'christ's thorn, ' tamarisk,  elm,  cypress)  rope and matting,  averaged with OxCal method. Caulking. This is NOT Tantura: see H. Mor and Y. Kahanov 2006,  Table 3; Frame first construction.
+Length: 11.50
+Width: 4.50
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

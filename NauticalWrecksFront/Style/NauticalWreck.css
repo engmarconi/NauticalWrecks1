@@ -1,28 +1,50 @@
 ﻿/* 
-vers    Date            Coder       Issue
-1.0     2023-02-18      Chido       Original css version
 
- */
-
+Date            Coder       vers		Comments
+2023-02-18      Chido       3.2.1       Original  version.
+2023-03-02      Chido       3.3.1       Additional styling. Search container, drop downs, toggle button containers, submit
+2023-03-03      Chido       3.3.2       Added a CSS class for the records counter
+*/
 
 body {
     font-family: 'Droid Serif', serif;
     font-size: 14px;
     color: #2f2f2f;
-    background-color: #FF7F50;
+    /*background-color: #FF7F50;*/
+    /*background-color: #d3d3d3;*/
+    background-color: #E0E0E0;
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
+.loading_box {
+    width: 220px;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 999;
+    background-color: #a3fafa;
+    /*background-color: #fff;*/
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px 10px;
+    display: none;
+}
 
 #body {
-    background-color:rgb(244, 118, 118)
+    /*background-color: rgb(244, 118, 118)*/
+    background-color: rgb(224, 224, 224);
 }
 
 #control button {
     background-color: firebrick;
-    color:forestgreen;
+    color: forestgreen;
 }
 
     #control button:hover {
@@ -40,9 +62,53 @@ header {
     margin-bottom: 20px;
 }
 
+.records {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 15px;
+    /*  text-transform: uppercase;*/
+    display: inline-block;
+    /*color: mintcream;*/
+    color: blue;
+}
+
 li {
     display: inline;
 }
+
+    li a {
+        padding: 4px 4px;
+        background-color: aqua;
+        text-decoration: none;
+    }
+
+        li a:hover {
+            background-color: aquamarine;
+            text-decoration: overline;
+        }
+
+.search_container {
+    padding: 3px;
+    border: 1px solid #FF7F50;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.mydropdownlist {
+    color: #fff;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #cc2a41;
+    font-weight: bold;
+    width: 120px;
+    overflow: hidden;
+    white-space: normal;
+    text-overflow: ellipsis;
+}
+
+
 
 p {
     margin-top: 0;
@@ -69,6 +135,28 @@ p {
     text-align: left;
     display: inline-block;
 }
+
+.halfbox_two {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 4px 6px;
+    color: blue;
+}
+
+.submit_btn {
+    padding: 10px 8px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: aqua;
+    font-weight: bold;
+    width: 120px;
+}
+
+    .submit_btn:hover {
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+        background-color: aquamarine;
+    }
 
 .clearfix::after {
     content: "";

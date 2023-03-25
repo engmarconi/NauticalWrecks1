@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Cala Rossano">
+    <name />
+    <description>Name 1: Cala Rossano
+Name 2: 
+Start Date: 30
+End Date: 60
+Data source: F.P. Arata 1993, 131-151.DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: ceramic
+Cargo3: metal
+OtherCargo: small round wood boxes containing styli or hair-pins,  handles of ivory and wood,  marble basin,  chest lock, 
+Type1: Dr7-11,  20 with inscriptions of mercatores,  containing fish paste and wine
+Type2: coarse pottery,  fine-wall ware
+Type3: lead sheet (round),  lead containers,  strainers; iron knife,  lead finshing weights,  roll of lead sheet,  126 copper nails; tin ingots
+Width: 15.00
+Depth: 3.500
+Gear: 
+Capacity: 
+Comments: wooden pulleys,  3 m of cable,  pump discs,  lead tubing,  bronze nails,  fragmentary planking,  lead sheathing,  bricks
+Length: 40.00
+Width: 15.00
+Data source: F.P. Arata 1993, 131-151.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.417,40.783000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

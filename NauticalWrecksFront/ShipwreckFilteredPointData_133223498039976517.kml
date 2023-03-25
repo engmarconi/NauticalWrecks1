@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Israel">
+    <name />
+    <description>Name 1: Israel
+Name 2: 
+Start Date: 500
+End Date: 600
+Data source: DateQ: 
+YearFound: 
+Cargo1: ceramic
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: pottery
+Type2: 
+Type3: 
+Width: 
+Depth: 40.000
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34,32,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

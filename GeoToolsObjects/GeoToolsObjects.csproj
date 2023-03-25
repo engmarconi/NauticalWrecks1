@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Geo" Version="1.0.0" />
+    <PackageReference Include="Octokit" Version="5.0.0" />
     <PackageReference Include="SharpKml.Core" Version="6.0.0" />
   </ItemGroup>
 

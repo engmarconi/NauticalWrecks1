@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Ma'Agan Michael">
+    <name />
+    <description><![CDATA[Name 1: Ma'Agan Michael
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: S. Kingsley and K. Raveh 1994,  119-128.DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots (5)
+Type2: sounding lead,  2
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: Dating based on shape of ingots (compared to other finds in the Mediterranean,  and inscriptions in Greek and Latin engraved on them,  possibly indicating  workshop origin.
+Length: 
+Width: 
+Data source: S. Kingsley and K. Raveh 1994,  119-128.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.914000000000001,32.555999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Olbia R0">
+    <name />
+    <description>Name 1: Olbia R0
+Name 2: 
+Start Date: 400
+End Date: 500
+Data source: R. D’Oriano and E. Riccardi 2004,  89-95.DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: bronze broken statue scrap in 1 ship? http://www.sardiniapoint.it/4125.html
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: C5 ships all with prow facing land,  probably between wooden docks,  very wide mortices. Fairly frequent caulking.
+Length: 
+Width: 
+Data source: R. D’Oriano and E. Riccardi 2004,  89-95.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.5,40.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Atlit 3">
+    <name />
+    <description>Name 1: Atlit 3
+Name 2: 
+Start Date: 1400
+End Date: 1500
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 70 bronze Mamluk helmets
+Type2: 
+Type3: 
+Width: 
+Depth: 0.000
+Gear: bombard,  swivel-gun
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.917000000000002,32.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Agde 8">
+    <name />
+    <description>Name 1: Agde 8
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: red lead ore
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.4500000000000002,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Alcudia">
+    <name />
+    <description>Name 1: Alcudia
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: tin ingots alloyed with silver
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.1669999999999998,39.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Amoladeras,  Las">
+    <name />
+    <description>Name 1: Amoladeras,  Las
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: millstones,  gold phallic pendant
+Type1: lead objects
+Type2: Dr1A
+Type3: tiles
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.69999999999999996,37.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Arenella">
+    <name />
+    <description>Name 1: Arenella
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: 
+YearFound: 1984
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: armor weapons
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: iron anchor
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.282999999999999,36.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ayia Galini">
+    <name />
+    <description>Name 1: Ayia Galini
+Name 2: 
+Start Date: 276
+End Date: 290
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: lamps
+Cargo3: coins
+OtherCargo: mid C3 amphora
+Type1: scrap (bronze statue fragments,  statuettes,  tools,  vessels); altar; rings; locks; tools; vessels
+Type2: brass
+Type3: coin hoard closing with Probus (276-282)
+Width: 
+Depth: 5.000
+Gear: shipboard pottery
+Capacity: 
+Comments: lead from hull sheathing,  200 m from shore
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>24.667000000000002,35.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cabras">
+    <name />
+    <description>Name 1: Cabras
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.5169999999999995,39.866999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Camarina 3">
+    <name />
+    <description>Name 1: Camarina 3
+Name 2: 
+Start Date: 1100
+End Date: 1200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: pots of iron plates 35 cm in diameter to hold fire
+Type2: hammers,  tongs,  pliers,  nails,  horseshoes,  chain
+Type3: 
+Width: 4.00
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: wooden hull
+Length: 30.00
+Width: 4.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.449999999999999,36.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Bellavista">
+    <name />
+    <description>Name 1: Capo Bellavista
+Name 2: 
+Start Date: -25
+End Date: 25
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: metal
+OtherCargo: 
+Type1: copper ingots
+Type2: tin ingots
+Type3: lead ingots
+Width: 
+Depth: 7.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.7170000000000005,39.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capraia 3">
+    <name />
+    <description>Name 1: Capraia 3
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: marble
+Cargo3: 
+OtherCargo: 
+Type1: bronze statues
+Type2: statues
+Type3: 
+Width: 
+Depth: 100.000
+Gear: 
+Capacity: 
+Comments: timbers
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.8000000000000007,42.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cartagena 1">
+    <name />
+    <description>Name 1: Cartagena 1
+Name 2: 
+Start Date: -50
+End Date: 50
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: lead ingoterra sigillata
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.98299999999999998,37.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cavoli">
+    <name />
+    <description><![CDATA[Name 1: Cavoli
+Name 2: 
+Start Date: 1425
+End Date: 1440
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: tiles
+OtherCargo: 
+Type1: lead token,  silver spoon,  bronze cauldron,  steelyard weight,  scissors,  sword
+Type2: cobalt blue glazed ware
+Type3: 
+Width: 
+Depth: 13.000
+Gear: iron anchor,  7 cannon,  16 breeches,  stone and iron balls,  lead shot; lead token,  silver spoon,  bronze cauldron,  steelyard weight,  scissors,  cobalt blue glazed ware,  tiles,  sword
+Capacity: 
+Comments: ship's planking
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.5329999999999995,39.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cervia">
+    <name />
+    <description>Name 1: Cervia
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: amphoras
+Cargo3: 
+OtherCargo: 
+Type1: copper pot
+Type2: fragments
+Type3: 
+Width: 3.00
+Depth: 
+Gear: sounding lead, roof tile, iron anchor
+Capacity: 
+Comments: hull of a lagoon boat
+Length: 15.00
+Width: 3.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.317,44.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cherchel 1">
+    <name />
+    <description>Name 1: Cherchel 1
+Name 2: 
+Start Date: -25
+End Date: 75
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 4.000
+Gear: 
+Capacity: 
+Comments: well-preserved hull
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>2.1829999999999998,36.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Wismar-Wendorf">
+    <name />
+    <description>Name 1: Wismar-Wendorf
+Name 2: 
+Start Date: 1476
+End Date: 1476
+Data source: T. Förster 2000.DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: tin plates,  tin sculpture of three communion wafers with images of pilgrims
+Type2: 
+Type3: 
+Width: 7.00
+Depth: 1.500
+Gear: stove w/ bricks,  board game
+Capacity: 
+Comments: dendro dated; wood from area around Riga.
+Length: 18.00
+Width: 7.00
+Data source: T. Förster 2000.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.441000000000001,53.905999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Favaritx">
+    <name />
+    <description>Name 1: Favaritx
+Name 2: 
+Start Date: 450
+End Date: 600
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: 
+Type1: hundreds of bronze objects
+Type2: 
+Type3: coarseware
+Width: 
+Depth: 22.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>4.2670000000000003,40,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Frontignan">
+    <name />
+    <description>Name 1: Frontignan
+Name 2: 
+Start Date: 50
+End Date: 50
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: copper ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.7330000000000001,43.383000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Fuenterrabia">
+    <name />
+    <description>Name 1: Fuenterrabia
+Name 2: 
+Start Date: 100
+End Date: 150
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: iron ore
+Type2: terra sigillata cup
+Type3: 
+Width: 15.00
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 25.00
+Width: 15.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-1.8999999999999999,43.383000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Getaria (Spain)">
+    <name />
+    <description>Name 1: Getaria (Spain)
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: copper ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: Unpublished
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.1949999999999998,43.302999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Grazel 2">
+    <name />
+    <description>Name 1: Grazel 2
+Name 2: 
+Start Date: 631
+End Date: 631
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: coins
+Cargo3: 
+OtherCargo: 
+Type1: bronze pots,  box,  strainer,  lamp,  fittings
+Type2: coins ending 630-1 AD
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.1000000000000001,43.100000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Grottammare (Italy)">
+    <name />
+    <description>Name 1: Grottammare (Italy)
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.867000000000001,42.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Istria">
+    <name />
+    <description>Name 1: Istria
+Name 2: 
+Start Date: 1
+End Date: 1500
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: lead anchor stocks
+Type3: 
+Width: 
+Depth: 2.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.917,44.75,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Kapel Avazaath">
+    <name />
+    <description>Name 1: Kapel Avazaath
+Name 2: 
+Start Date: 100
+End Date: 160
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: iron ring,  caulking iron,  C14 130+-30
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: hull of barge
+Length: 30.00
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.4169999999999998,51.899999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Marsala 2">
+    <name />
+    <description>Name 1: Marsala 2
+Name 2: 
+Start Date: 1150
+End Date: 1200
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: bronze pot with Arabic inscription
+Type2: pottery
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: Arabic tender or pinnace
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.433,37.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Palizi Marina">
+    <name />
+    <description>Name 1: Palizi Marina
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: sulphur lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.8499999999999996,38.866999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Petit Rhône,  Le">
+    <name />
+    <description>Name 1: Petit Rhône,  Le
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 18.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>4.2999999999999998,43.399999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Plemmirio 1">
+    <name />
+    <description>Name 1: Plemmirio 1
+Name 2: 
+Start Date: 300
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: bronze lamps,  censers,  pitchers,  bowls,  shipyard
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.35,37,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ploumanac'h">
+    <name />
+    <description><![CDATA[Name 1: Ploumanac'h
+Name 2: 
+Start Date: 200
+End Date: 400
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: tiles
+Cargo3: stone
+OtherCargo: 
+Type1: lead ingots
+Type2: roof-tiles
+Type3: sandstone handmill
+Width: 
+Depth: 10.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-3.4500000000000002,48.899999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Porto Pistis">
+    <name />
+    <description>Name 1: Porto Pistis
+Name 2: 
+Start Date: 117
+End Date: 138
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 6.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.4329999999999998,39.533000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta Crapazza">
+    <name />
+    <description>Name 1: Punta Crapazza
+Name 2: 
+Start Date: 200
+End Date: 300
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: amphoras
+Cargo3: 
+OtherCargo: 
+Type1: tin ingots
+Type2: Afr1
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.949999999999999,38.433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta della Contessa 2">
+    <name />
+    <description>Name 1: Punta della Contessa 2
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>18.016999999999999,40.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Riace">
+    <name />
+    <description><![CDATA[Name 1: Riace
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: amphoras
+Cargo3: 
+OtherCargo: 
+Type1: bronze statues; lead jar lid,  Dr2-4; lead rings
+Type2: Rhodian fragments
+Type3: 
+Width: 
+Depth: 6.000
+Gear: 
+Capacity: 
+Comments: fragment of ship's keel
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>16.533000000000001,38.383000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Runcorn">
+    <name />
+    <description>Name 1: Runcorn
+Name 2: 
+Start Date: 80
+End Date: 90
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.7330000000000001,53.332999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saint-Gervais 1">
+    <name />
+    <description>Name 1: Saint-Gervais 1
+Name 2: 
+Start Date: 140
+End Date: 140
+Data source: DateQ: ca
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: lead ingots,  iron bars
+Type2: S Gaulish terra sigillata plate
+Type3: 
+Width: 
+Depth: 7.000
+Gear: 
+Capacity: 
+Comments: hull
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>4.9329999999999998,43.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saintes-Maries-de-la-Mer 3,  Les">
+    <name />
+    <description>Name 1: Saintes-Maries-de-la-Mer 3,  Les
+Name 2: 
+Start Date: 100
+End Date: 200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: copper ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 18.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>4.4000000000000004,43.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="San Vincenzo 1">
+    <name />
+    <description>Name 1: San Vincenzo 1
+Name 2: 
+Start Date: 1300
+End Date: 1300
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: iron objects,  slag
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.532999999999999,43.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sancti Petri">
+    <name>El Pecio del Cobre</name>
+    <description>Name 1: Sancti Petri
+Name 2: El Pecio del Cobre
+Start Date: 50
+End Date: 100
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: lead,  copper ingots
+Type2: 
+Type3: 
+Width: 20.00
+Depth: 9.000
+Gear: lead anchor stock
+Capacity: 
+Comments: 
+Length: 27.00
+Width: 20.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-6.2169999999999996,36.399999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sorres 2,  Les">
+    <name />
+    <description>Name 1: Sorres 2,  Les
+Name 2: 
+Start Date: -100
+End Date: 200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: 
+Type1: iron blocks
+Type2: coarseware jug
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>2,41.283000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Szazhalombatta">
+    <name />
+    <description>Name 1: Szazhalombatta
+Name 2: 
+Start Date: 1
+End Date: 200
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: ceramic
+Cargo3: 
+OtherCargo: cooking equipment
+Type1: 35 bronze vessels
+Type2: pottery
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: Roman boat
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>18.832999999999998,47.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tel Kara (Israel)">
+    <name />
+    <description><![CDATA[Name 1: Tel Kara (Israel)
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: metal
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: copper ingots
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: Unpublished. Coordinates close to Parker's indication of Kefar Gallim,  near location of the site.
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.950000000000003,32.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

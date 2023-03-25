@@ -1,11 +1,12 @@
 ﻿
 /* 
-vers    Date            Coder       Issue
-1.0     2023-02-18      Chido       Original js version
-2.0		2023-02-25		Chido		Included the heatmap data for the 1062 points
 
- */
+Date            Coder       vers		Comments
+2023-02-18      Chido       3.2.1       Original  version.
+2023-02-25      Chido       3.3.1       Included the heatmap data for the 1062 points.
+2023-03-02      Chido       3.3.2       Included Loading box.
 
+*/
 
 
 //"Map" variable
@@ -985,7 +986,7 @@ function BuildOverlays() {
 
 
 
-	
+
 
 
 function LoadData(Layer) {
@@ -1001,7 +1002,7 @@ function LoadData(Layer) {
 		}
 	}*/
 
-	 if (Layer == "Overlay") {
+	if (Layer == "Overlay") {
 
 		if (OverlayToggle == false) {	//Check out this foreach. 
 			overlays.forEach(element => element.setMap(map));
@@ -1074,3 +1075,15 @@ function showKmlLayer() {
 function hideKmlLayer() {
 	kmlLayer.setMap(null);
 }
+
+
+let btnSearchQuery = document.querySelector("#btnSearchQuery");
+btnSearchQuery.addEventListener("click", (evt) => {
+	document.querySelector(".loading_box").style.display = "flex";
+});
+
+
+let btnGetAllRecords = document.querySelector("#btnGetAllRecords");
+btnGetAllRecords.addEventListener("click", (evt) => {
+	document.querySelector(".loading_box").style.display = "flex";
+});

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Dor 2001/1">
+    <name />
+    <description><![CDATA[Name 1: Dor 2001/1
+Name 2: 
+Start Date: 420
+End Date: 540
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: 
+Type1: sandstone (kurkar,  80 in number) porba local
+Type2: Yassi Ada
+Type3: Gaza ware; Byzantine cooking pots
+Width: 4.50
+Depth: 1.000
+Gear: rope,  mat on ceiling of ship, 
+Capacity: 
+Comments: Dating by 14C,  on ten samples from planking (oak,  pine,  beech,  'christ's thorn, ' tamarisk,  elm,  cypress)  rope and matting,  averaged with OxCal method. Caulking. This is NOT Tantura: see H. Mor and Y. Kahanov 2006,  Table 3; Frame first construction.
+Length: 11.50
+Width: 4.50
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

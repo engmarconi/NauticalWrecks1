@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Skuldelev 2/4">
+    <name />
+    <description><![CDATA[Name 1: Skuldelev 2/4
+Name 2: 
+Start Date: 1048
+End Date: 1060
+Data source: Navis I,  Skuldelev 2/4,  #2; O. Crumlin-Pedersen and O. Olsen 1959; E. Friis 1964,  24-26; O. Olsen and O. Crumlin-Pedersen 1967,  73-174; O. Crumlin-Pedersen 1970; O. Olsen and O. Crumlin-Pedersen 1978; W. Dammann 1983,  106;  O. Crumlin-Pedersen 1986,  209-228; R. Thorseth 1986,  78-83; O. Crumlin-Pedersen 1994,  65-72; J. Bill 1997,  388-389; O. Crumlin-Pedersen 2002.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 3.70
+Depth: 
+Gear: 
+Capacity: 
+Comments: Warship,  part of the blockage in Roskilde fjord; sunk on purpose with stone cargo. Dating info on db summary says 'after 1055' based on dendro dates,  claiming oak wood of local origin. Viking context,  'Nordic' type sail/row.
+Length: 30.00
+Width: 3.70
+Data source: Navis I,  Skuldelev 2/4,  #2; O. Crumlin-Pedersen and O. Olsen 1959; E. Friis 1964,  24-26; O. Olsen and O. Crumlin-Pedersen 1967,  73-174; O. Crumlin-Pedersen 1970; O. Olsen and O. Crumlin-Pedersen 1978; W. Dammann 1983,  106;  O. Crumlin-Pedersen 1986,  209-228; R. Thorseth 1986,  78-83; O. Crumlin-Pedersen 1994,  65-72; J. Bill 1997,  388-389; O. Crumlin-Pedersen 2002.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.067,55.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Alexandria 2">
+    <name />
+    <description>Name 1: Alexandria 2
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: grinding stones
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>29.917000000000002,31.216999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Anzio">
+    <name />
+    <description>Name 1: Anzio
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: tufa
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.583,41.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Arwad 3">
+    <name />
+    <description>Name 1: Arwad 3
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: black basalt columns
+Type2: 
+Type3: 
+Width: 
+Depth: 20.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>33.866999999999997,34.832999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ashqelon">
+    <name />
+    <description>Name 1: Ashqelon
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Egyptian-style porphry statue
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.549999999999997,31.667000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Brescou">
+    <name />
+    <description>Name 1: Brescou
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: basalt mill-stones of Ambonne
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 100 m off Brescou island
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.5,43.25,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cádiz 5">
+    <name>Pecio de las piedras de molino</name>
+    <description>Name 1: Cádiz 5
+Name 2: Pecio de las piedras de molino
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: 
+Type1: 2 mill-stones,  4 squared blocks
+Type2: 
+Type3: coarseware
+Width: 
+Depth: 10.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-6.3330000000000002,36.533000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Caesarea 3">
+    <name />
+    <description>Name 1: Caesarea 3
+Name 2: 
+Start Date: 250
+End Date: 250
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: stone
+Cargo2: coins
+Cargo3: 
+OtherCargo: 
+Type1: squared basalt slabs
+Type2: bronze coins of Philip the Arab
+Type3: 
+Width: 
+Depth: 7.000
+Gear: lead sail-rings
+Capacity: 
+Comments: lead sheathing
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.883000000000003,32.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Schisò (Italy)">
+    <name />
+    <description>Name 1: Capo Schisò (Italy)
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Roman hand mills - millstones
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: Unpublished
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.276999999999999,37.825000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dramont 9">
+    <name />
+    <description>Name 1: Dramont 9
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 30.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.8330000000000002,43.399999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Livorno (Italy)">
+    <name />
+    <description>Name 1: Livorno (Italy)
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 4 Roman portrait busts
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.282999999999999,43.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="London (Blackfriars)">
+    <name />
+    <description>Name 1: London (Blackfriars)
+Name 2: 
+Start Date: 175
+End Date: 225
+Data source: G. Milne 1996,  234-238.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: ceramic
+Cargo3: metal
+OtherCargo: 
+Type1: grinding stone
+Type2: pottery
+Type3: tools
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: mast-step,  hull
+Length: 15.00
+Width: 
+Data source: G. Milne 1996,  234-238.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>0.10000000000000001,51.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Margarina">
+    <name />
+    <description>Name 1: Margarina
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: blocks,  columns
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.300000000000001,44.482999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Methone 4">
+    <name />
+    <description>Name 1: Methone 4
+Name 2: 
+Start Date: 100
+End Date: 300
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: tiles
+Cargo3: ceramic
+OtherCargo: glass unguent jar
+Type1: garland sarcophagi
+Type2: roof tiles
+Type3: pottery
+Width: 
+Depth: 
+Gear: ballast
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>21.699999999999999,36.817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Piraeus 1">
+    <name />
+    <description>Name 1: Piraeus 1
+Name 2: 
+Start Date: 100
+End Date: 200
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: sculptures
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.632999999999999,37.933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta del Diavolo">
+    <name />
+    <description>Name 1: Punta del Diavolo
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: limestone blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 21.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.483000000000001,42.100000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta del Milagro">
+    <name />
+    <description>Name 1: Punta del Milagro
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: column drums
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>1.2330000000000001,41.100000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saint Tropez 1">
+    <name />
+    <description>Name 1: Saint Tropez 1
+Name 2: 
+Start Date: 100
+End Date: 200
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: marble column drums,  bases,  slab,  architrave
+Type2: 
+Type3: 
+Width: 
+Depth: 6.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.633,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Salakta">
+    <name />
+    <description>Name 1: Salakta
+Name 2: 
+Start Date: 200
+End Date: 225
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: marble carved blocks,  architrave,  pilaster and plain slabs,  blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 5.000
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.067,35.332999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Salerno">
+    <name />
+    <description>Name 1: Salerno
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: grey limestone blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.766999999999999,40.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sant'Antioco 2">
+    <name />
+    <description><![CDATA[Name 1: Sant'Antioco 2
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: transport ship
+Length: 
+Width: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.4169999999999998,38.950000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Taranto 1">
+    <name />
+    <description>Name 1: Taranto 1
+Name 2: 
+Start Date: 400
+End Date: 650
+Data source: DateQ: ca / ?
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: millstones
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>17.582999999999998,40.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Torre Testa">
+    <name />
+    <description>Name 1: Torre Testa
+Name 2: 
+Start Date: 0
+End Date: 0
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: Lava millstone
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: frames
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>17.867000000000001,40.683,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Toulon 1">
+    <name />
+    <description>Name 1: Toulon 1
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: small Roman boat
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.9329999999999998,43.116999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Toulon 2">
+    <name />
+    <description>Name 1: Toulon 2
+Name 2: 
+Start Date: 1
+End Date: 100
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: blocks
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: small Roman boat
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.9329999999999998,43.116999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Wantzenau">
+    <name />
+    <description>Name 1: Wantzenau
+Name 2: 
+Start Date: 275
+End Date: 300
+Data source: DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: millstones
+Type2: 3 bronze vessels,  axe-hammer,  drill
+Type3: 
+Width: 
+Depth: 
+Gear: leaden end of sounding pole
+Capacity: 
+Comments: hull,  punting,  iron-mounted pole
+Length: 6.50
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.8330000000000002,48.667000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Avdimou bay">
+    <name />
+    <description>Name 1: Avdimou bay
+Name 2: 
+Start Date: 400
+End Date: 600
+Data source: J. Leidwanger and D.S. Howitt-Marshall 2006,  13-14.DateQ: ca
+YearFound: 
+Cargo1: stone
+Cargo2: amphoras
+Cargo3: 
+OtherCargo: 
+Type1: millstones 3,  conical  in shape
+Type2: LR4,  from Gaza and Ashkelon,  tall narrow w/o neck,  small ring handles,  no rim.  traces of pitch inside the amphoras indicate containedholy land wine
+Type3: 
+Width: 
+Depth: 
+Gear: 2 stone anchors in addition to another 9 already documented.
+Capacity: 
+Comments: Survey. Dating based on amphoras and anchors.  The survey mentions this site in passing.  See IJNA articles for  more details.
+Length: 
+Width: 
+Data source: J. Leidwanger and D.S. Howitt-Marshall 2006,  13-14.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>32.764000000000003,34.655000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 2001/1">
+    <name />
+    <description><![CDATA[Name 1: Dor 2001/1
+Name 2: 
+Start Date: 420
+End Date: 540
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: amphoras
+Cargo3: ceramic
+OtherCargo: 
+Type1: sandstone (kurkar,  80 in number) porba local
+Type2: Yassi Ada
+Type3: Gaza ware; Byzantine cooking pots
+Width: 4.50
+Depth: 1.000
+Gear: rope,  mat on ceiling of ship, 
+Capacity: 
+Comments: Dating by 14C,  on ten samples from planking (oak,  pine,  beech,  'christ's thorn, ' tamarisk,  elm,  cypress)  rope and matting,  averaged with OxCal method. Caulking. This is NOT Tantura: see H. Mor and Y. Kahanov 2006,  Table 3; Frame first construction.
+Length: 11.50
+Width: 4.50
+Data source: H. Mor 2005,  14-16; H. Mor and Y. Kahanov 2006,  274-289.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dorestad">
+    <name />
+    <description>Name 1: Dorestad
+Name 2: 
+Start Date: 800
+End Date: 900
+Data source: Navis I,  Dorestad 1,  #65; W.A. van Es and W.J.H. Verwers 1981,  72-76; K. Vlierman 1997,  83-87; W.A. van Es,  W.J.H. Verwers,  and J. van Doesburg 2009,  243-256.DateQ: ca
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: quern (?)
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: oak; clinker built,  many iron nails. Fragments of ship possibly used as revetment? Cargo identification of objects not certain. wicker basket with stones,  unworked animal bones.
+Length: 
+Width: 
+Data source: Navis I,  Dorestad 1,  #65; W.A. van Es and W.J.H. Verwers 1981,  72-76; K. Vlierman 1997,  83-87; W.A. van Es,  W.J.H. Verwers,  and J. van Doesburg 2009,  243-256.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.3330000000000002,52.966999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dramont 9/I">
+    <name />
+    <description>Name 1: Dramont 9/I
+Name 2: 
+Start Date: 25
+End Date: 50
+Data source: A. Joncheray and J.P. Joncheray 1997,  165-195.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: sapphires
+Type1: pumice stones
+Type2: 
+Type3: 
+Width: 
+Depth: 33.000
+Gear: cylindric part (possibly anchor)
+Capacity: 
+Comments: hull parts
+Length: 
+Width: 
+Data source: A. Joncheray and J.P. Joncheray 1997,  165-195.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.8330000000000002,43.399999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Graveney">
+    <name />
+    <description><![CDATA[Name 1: Graveney
+Name 2: 
+Start Date: 895
+End Date: 944
+Data source: Navis I,  Graveney,  #88;  W.A. Oddy 1971; V. Fenwick 1972,  119-129; W.A. Oddy 1972,  175-177; E. McKee 1973; J.M. Fletcher 1977,  335-352; V. Fenwick and A. Morley 1978;  E. McKee 1978; E. McKee 1978; J.M. Fletcher 1984,  151; E. Gifford 1986,  124-129; V. Fenwick 1997,  175-176; S. McGrail 1997,  350.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: grain (hops)
+Type1: querns
+Type2: 
+Type3: 
+Width: 4.00
+Depth: 
+Gear: 
+Capacity: 
+Comments: Dating based on 14C (944 ±30) and oak dendro (927±2 and 895±2). Unable to get dendro match in '94.  Cargo vessel in Anglo-Saxon context
+Length: 13.60
+Width: 4.00
+Data source: Navis I,  Graveney,  #88;  W.A. Oddy 1971; V. Fenwick 1972,  119-129; W.A. Oddy 1972,  175-177; E. McKee 1973; J.M. Fletcher 1977,  335-352; V. Fenwick and A. Morley 1978;  E. McKee 1978; E. McKee 1978; J.M. Fletcher 1984,  151; E. Gifford 1986,  124-129; V. Fenwick 1997,  175-176; S. McGrail 1997,  350.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>0.93300000000000005,51.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Klåstad">
+    <name />
+    <description>Name 1: Klåstad
+Name 2: 
+Start Date: 960
+End Date: 990
+Data source: Navis I,  Klåstad,  #180; A.E. Christensen and L. Gunnar 1976; A.E. Christensen 1980; Eriksen 1993; J. Bill et al. 1997.DateQ: 
+YearFound: 
+Cargo1: stone
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: unfinished whetstones (50)
+Type2: 
+Type3: 
+Width: 5.00
+Depth: 
+Gear: 
+Capacity: 
+Comments: Dating based on dendro on oak plank. Nordic sailed/oared cargo vessel of beech,  oak and pine; in Viking context.
+Length: 21.00
+Width: 5.00
+Data source: Navis I,  Klåstad,  #180; A.E. Christensen and L. Gunnar 1976; A.E. Christensen 1980; Eriksen 1993; J. Bill et al. 1997.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.167,59.064999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

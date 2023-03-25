@@ -44,6 +44,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Octokit, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0be8860aee462442, processorArchitecture=MSIL">
+      <HintPath>packages\Octokit.5.0.0\lib\netstandard2.0\Octokit.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpKml.Core, Version=6.0.0.0, Culture=neutral, PublicKeyToken=9bb853c026a5c0ac, processorArchitecture=MSIL">
+      <HintPath>packages\SharpKml.Core.6.0.0\lib\net462\SharpKml.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -72,9 +79,7 @@
     <Content Include="Images\relase_plan.PNG" />
     <Content Include="Images\roadmap.PNG" />
     <Content Include="NauticalWrecksMap.aspx" />
-    <Content Include="Scripts\WebKmlTest.js" />
     <Content Include="Scripts\NauticalHome.js" />
-    <Content Include="Scripts\Mockup.js" />
     <Content Include="Style\NauticalWreck.css" />
     <Content Include="Web.config" />
     <Content Include="NauticalWrecksHome.aspx" />

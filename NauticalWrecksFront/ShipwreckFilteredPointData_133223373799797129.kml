@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Cavallo 1">
+    <name />
+    <description>Name 1: Cavallo 1
+Name 2: 
+Start Date: 40
+End Date: 50
+Data source: DateQ: ca
+YearFound: 
+Cargo1: amphoras
+Cargo2: glass
+Cargo3: ceramic
+OtherCargo: bronze lamp,  bronze figurine,  2 coins,  ladle or strainer handle and hook,  5-pronged fishing spear,  50 iron and 50 copper nails, 
+Type1: Dr2-4; 2 Spanish amphoras
+Type2: clear bowls with greenish rim
+Type3: mortarium,  larger Italian terra sigillata plate,  coarseware,  terra sigillata inkwell
+Width: 
+Depth: 12.000
+Gear: sounding-lead,  ballast
+Capacity: 
+Comments: preserved hull,  keel,  some strakes,  some frames
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.25,41.350000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
