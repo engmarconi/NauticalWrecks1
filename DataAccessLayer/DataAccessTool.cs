@@ -57,7 +57,7 @@ namespace DataAccessLayer
         }
 
         //Creates a list of placemarks using our database. Fields from DB build the name & description info
-        public List<Placemark> GetAllShapes(DataFilterModel dataFilterModel = null)
+        public List<Placemark> GetAllShapes()
         {
             List<Placemark> Shapes = new List<Placemark>();
 
@@ -82,112 +82,12 @@ namespace DataAccessLayer
                         {
                             while (t.Read())
                             {
-                                //ID = t.GetInt32(0);
-
-                                //Make a note here of how the fields map to the data in sp_GetAllShapes results
-                                //
-                                //0 - ShipID                
-                                //1 - Name1                 
-                                //2 - Name2
-                                //3 - WreckID2008
-                                //4 - Latitude
-                                //5 - Longitude
-                                //6 - ShapeString
-                                //7 - Geo
-                                //8 - GeoQ
-                                //9 - StartDate
-                                //10 - EndDate
-                                //11 - DateQ
-                                //12 - YearFound
-                                //13 - YearFoundQ
-                                //14 - CargoID
-                                //15 - TypeID
-                                //16 - GearID
-                                //17 - DepthID
-                                //18 - EstimatedCapacity
-                                //19 - Comments
-                                //20 - Lngth
-                                //21 - Width
-                                //22 - SizeestimateQ
-                                //23 - Parkerreference
-                                //24 - Bibliographyandnotes
 
                                 try
                                 {
-                                    //Change iteration to match database (follows the order of the SP)
-                                    //String ID = t[0].ToString();
-                                    String Name1 = t[0].ToString();
-                                    String Name2 = t[1].ToString();
-                                    String WreckID2008 = t[2].ToString();
-                                    String Latitude = t[3].ToString();
-                                    String Longitude = t[4].ToString();
-                                    String Shape = t[5].ToString();
-                                    //text = Shape;
-                                    //String Geo = t[6].ToString();
-                                    String GeoQ = t[7].ToString();
-                                    String StartDate = t[8].ToString();
-                                    String EndDate = t[9].ToString();
-                                    String DateQ = t[10].ToString();
-                                    String YearFound = t[11].ToString();
-                                    String YearFoundQ = t[12].ToString();
-                                    String CargoFK = t[13].ToString();
-                                    String Cargo1 = t[14].ToString();
-                                    String Cargo2 = t[15].ToString();
-                                    String Cargo3 = t[16].ToString();
-                                    String OtherCargo = t[17].ToString();
-                                    String TypeFK = t[18].ToString();
-                                    String Type1 = t[19].ToString();
-                                    String Type2 = t[20].ToString();
-                                    String Type3 = t[21].ToString();
-                                    String GearFK = t[22].ToString();
-                                    String Gear = t[23].ToString();
-                                    String DepthFK = t[24].ToString();
-                                    String Depth = t[25].ToString();
-                                    String EstimatedCapacity = t[26].ToString();
-                                    String Comments = t[27].ToString();
-                                    String Length = t[28].ToString();
-                                    String Width = t[29].ToString();
-                                    String SizeestimateQ = t[30].ToString();
-                                    String Parkerreference = t[31].ToString();
-                                    String Bibliography = t[32].ToString();
+                                    DataModel model = new DataModel(t);
 
-                                    if (dataFilterModel != null)
-                                    {
-                                        if (dataFilterModel.Depth != "" && Depth == dataFilterModel.Depth)
-                                            continue;
-
-                                        if (dataFilterModel.Gear != "" && Gear == dataFilterModel.Gear)
-                                            continue;
-
-                                        if (dataFilterModel.Type1 != "" && Type1 != dataFilterModel.Type1)
-                                            continue;
-
-                                        if (dataFilterModel.Type2 != "" && Type2 != dataFilterModel.Type3)
-                                            continue;
-
-                                        if (dataFilterModel.Type3 != "" && Type3 != dataFilterModel.Type3)
-                                            continue;
-
-                                        if (dataFilterModel.Cargo1 != "" && Cargo1 != dataFilterModel.Cargo1)
-                                            continue;
-
-                                        if (dataFilterModel.Cargo2 != "" && Cargo2 != dataFilterModel.Cargo2)
-                                            continue;
-
-                                        if (dataFilterModel.Cargo3 != "" && Cargo3 != dataFilterModel.Cargo3)
-                                            continue;
-
-                                        if (dataFilterModel.OtherCargo != "" && OtherCargo != dataFilterModel.OtherCargo)
-                                            continue;
-
-
-                                    }
-
-                                    //String Cargo2 = t[25].ToString();
-                                    //String Cargo3 = t[26].ToString();
-                                    //String OtherCargo = t[27].ToString();
-
-                                    if (Shape.Contains("POINT"))
+                                    if (model != null)
                                     {
                                         //Style placemark
                                         s.Icon = new IconStyle();
@@ -197,19 +97,8 @@ namespace DataAccessLayer
                                         s.Label.Scale = 1;
                                         s.Label.Color = new Color32(255, 255, 255, 255);
 
-                                        //Clean the ShapeString
-                                        Shape = Shape.Replace("POINT", "");
-                                        Shape = Shape.Replace("  ", " ");
-                                        Shape = Shape.Replace("(", "");
-                                        Shape = Shape.Replace(")", "");
-
-                                        Shape = Shape.Trim();
-
-                                        //Break the string up
-                                        String[] b = Shape.Split(' ');
-
                                         //Converts string input data to usable coordinate with altitude 0
-                                        Coordinate C = new Coordinate(Double.Parse(b[1]), Double.Parse(b[0]), 0);
+                                        Coordinate C = new Coordinate(Double.Parse(model.Latitude), Double.Parse(model.Longitude), 0);
 
                                         //Translates coordinate to .kml placemark
                                         Placemark P = C.ToPlaceMark();
@@ -217,26 +106,7 @@ namespace DataAccessLayer
                                         //Uses input data for additional placemark info (can be modified to begin generating pop-up data)
                                         P.Name = t[1].ToString();
                                         SharpKml.Dom.Description D = new SharpKml.Dom.Description();
-                                        D.Text = "Name 1: " + Name1 + Environment.NewLine +
-                                                 "Name 2: " + Name2 + Environment.NewLine +
-                                                 "Start Date: " + StartDate + Environment.NewLine +
-                                                 "End Date: " + EndDate + Environment.NewLine +
-                                                 "Data source: " + Bibliography +
-                                                 "DateQ: " + DateQ + Environment.NewLine +
-                                                 "YearFound: " + YearFound + Environment.NewLine +
-                                                 "Cargo1: " + Cargo1 + Environment.NewLine +
-                                                 "Cargo2: " + Cargo2 + Environment.NewLine +
-                                                 "Cargo3: " + Cargo3 + Environment.NewLine +
-                                                 "OtherCargo: " + OtherCargo + Environment.NewLine +
-                                                 "Type1: " + Type1 + Environment.NewLine +
-                                                 "Type2: " + Type2 + Environment.NewLine +
-                                                 "Type3: " + Type3 + Environment.NewLine +
-                                                 "Width: " + Width + Environment.NewLine +
-                                                 "Capacity: " + EstimatedCapacity + Environment.NewLine +
-                                                 "Comments: " + Comments + Environment.NewLine +
-                                                 "Length: " + Length + Environment.NewLine +
-                                                 "Width: " + Width + Environment.NewLine +
-                                                 "Data source: " + Bibliography;
+                                        D.Text = model.ToString();
 
                                         P.Description = D.Clone();
                                         P.Id = t[0].ToString();
@@ -485,13 +355,13 @@ namespace DataAccessLayer
             return types;
         }
 
-        public async Task<CountValues> GetData(DataFilterModel dataFilterModel)
+        public async Task<CountValues> GetData()
         {
             CountValues resp = new CountValues();
             DataAccessTool DataImport = new DataAccessTool();
 
             //Instantiate Placemark List variable to store data as it comes in from the data tool
-            List<Placemark> PointData = DataImport.GetAllShapes(dataFilterModel);
+            List<Placemark> PointData = DataImport.GetAllShapes();
             resp.Count = PointData.Count;
 
             //Write list of created placemarks to a new .kml file (changed to a network file in the future)
@@ -931,23 +801,7 @@ namespace DataAccessLayer
                                             //Uses input data for additional placemark info (can be modified to begin generating pop-up data)
                                             P.Name = t[1].ToString();
                                             SharpKml.Dom.Description D = new SharpKml.Dom.Description();
-                                            D.Text = "Name 1: " + model.PrimaryName + Environment.NewLine +
-                                                     "Name 2: " + model.SecondaryName + Environment.NewLine +
-                                                     "Start Date: " + model.StartDate + Environment.NewLine +
-                                                     "End Date: " + model.EndDate + Environment.NewLine +
-                                                     //"Data source: " + model.Bibliography +
-                                                     "DateQ: " + model.DateQ + Environment.NewLine +
-                                                     "YearFound: " + model.YearFound + Environment.NewLine +
-                                                     "Cargo: " + model.CargoName + Environment.NewLine +
-                                                     "Type: " + model.TypeName + Environment.NewLine +
-                                                     "Width: " + model.Width + Environment.NewLine +
-                                                     "Depth: " + model.Depth + Environment.NewLine +
-                                                     "Gear: " + model.GearName + Environment.NewLine +
-                                                     "Capacity: " + model.EstimatedCapacity + Environment.NewLine +
-                                                     "Comments: " + model.Comments + Environment.NewLine +
-                                                     "Length: " + model.Length + Environment.NewLine +
-                                                     "Width: " + model.Width + Environment.NewLine +
-                                                     "Data source: " + model.BibliographyandNotes;
+                                            D.Text = model.ToString();
 
                                             P.Description = D.Clone();
                                             P.Id = t[0].ToString();
@@ -1094,6 +948,27 @@ namespace DataAccessLayer
             SizeEstimateQ = row[21].ToString();
             ParkerReference = row[22].ToString();
             BibliographyandNotes = row[23].ToString();
+        }
+
+        public override string ToString()
+        {
+            return "Name 1: " + PrimaryName + Environment.NewLine +
+                                                     "Name 2: " + SecondaryName + Environment.NewLine +
+                                                     "Start Date: " + StartDate + Environment.NewLine +
+                                                     "End Date: " + EndDate + Environment.NewLine +
+                                                     //"Data source: " +Bibliography +
+                                                     "DateQ: " + DateQ + Environment.NewLine +
+                                                     "YearFound: " + YearFound + Environment.NewLine +
+                                                     "Cargo: " + CargoName + Environment.NewLine +
+                                                     "Type: " + TypeName + Environment.NewLine +
+                                                     "Width: " + Width + Environment.NewLine +
+                                                     "Depth: " + Depth + Environment.NewLine +
+                                                     "Gear: " + GearName + Environment.NewLine +
+                                                     "Capacity: " + EstimatedCapacity + Environment.NewLine +
+                                                     "Comments: " + Comments + Environment.NewLine +
+                                                     "Length: " + Length + Environment.NewLine +
+                                                     "Width: " + Width + Environment.NewLine +
+                                                     "Data source: " + BibliographyandNotes;
         }
 
     }

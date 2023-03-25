@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Bergeggi">
+    <name />
+    <description>Name 1: Bergeggi
+Name 2: 
+Start Date: 10
+End Date: 60
+DateQ: ca
+YearFound: 
+Cargo: 
+Type: 
+Width: 6.00
+Depth: 30.00
+Gear: 
+Capacity: 
+Comments: 
+Length: 20.00
+Width: 6.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.4329999999999998,44.216999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Garoupe 1, La">
+    <name />
+    <description>Name 1: Garoupe 1, La
+Name 2: 
+Start Date: 10
+End Date: 35
+DateQ: ca
+YearFound: 
+Cargo: amphoras
+Type: Dr2-4
+Width: 
+Depth: 12.00
+Gear: hemispheric lead container, terra cotta
+Capacity: 
+Comments: Fiori says wreck occurred in 2nd half of C1 AD
+Length: 
+Width: 
+Data source: P. Fiori 1972, 35-44.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.1500000000000004,43.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Jarre">
+    <name />
+    <description>Name 1: Jarre
+Name 2: 
+Start Date: 10
+End Date: 50
+DateQ: ca / ?
+YearFound: 
+Cargo: metal
+Type: Dr20
+Width: 
+Depth: 54.00
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.3330000000000002,43.200000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sud-Lavezzi 2">
+    <name />
+    <description>Name 1: Sud-Lavezzi 2
+Name 2: 
+Start Date: 10
+End Date: 30
+DateQ: 
+YearFound: 
+Cargo: amphoras
+Type: Haltern70 Dr7-11 Dr20 Dr28
+Width: 
+Depth: 42.00
+Gear: 9 anchors
+Capacity: 
+Comments: 
+Length: 23.80
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.25,41.299999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

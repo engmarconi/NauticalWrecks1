@@ -98,7 +98,7 @@ namespace NauticalWrecksFront
         {
             CountValues resp = new CountValues();
             var tool = new DataAccessTool();
-            resp = await tool.GetData(filter);
+            resp = await tool.GetData();
             KmlNameProperty.Value = resp.Name;
 
             lblRecordsCount.Text = resp.Count.ToString();
