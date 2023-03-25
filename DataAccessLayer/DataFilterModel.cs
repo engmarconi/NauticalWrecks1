@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
+    public enum FilterType
+    {
+        Depth,
+        Gear,
+        Cargo,
+        Type,
+        StartDate,
+        EndDate,
+    }
     public class DataFilterModel
     {
         public string Depth { get; set; }

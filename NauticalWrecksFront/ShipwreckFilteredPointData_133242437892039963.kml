@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Capraia 3">
+    <name />
+    <description>Name 1: Capraia 3
+Name 2: 
+Start Date: 0
+End Date: 0
+DateQ: ca
+YearFound: 
+Cargo: marble
+Type: bronze statues
+Width: 
+Depth: 100.00
+Gear: 
+Capacity: 
+Comments: timbers
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.8000000000000007,42.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capraia 3">
+    <name />
+    <description>Name 1: Capraia 3
+Name 2: 
+Start Date: 0
+End Date: 0
+DateQ: ca
+YearFound: 
+Cargo: ceramic
+Type: pottery
+Width: 
+Depth: 100.00
+Gear: 
+Capacity: 
+Comments: timbers
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.8000000000000007,42.982999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Pomonte">
+    <name />
+    <description>Name 1: Pomonte
+Name 2: 
+Start Date: -100
+End Date: 100
+DateQ: 
+YearFound: 
+Cargo: 
+Type: 
+Width: 
+Depth: 100.00
+Gear: 
+Capacity: 
+Comments: timber
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.083,42.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

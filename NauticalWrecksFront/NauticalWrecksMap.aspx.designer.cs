@@ -69,67 +69,40 @@ namespace NauticalWrecksFront
         protected global::System.Web.UI.WebControls.DropDownList GearDropDownList;
 
         /// <summary>
-        /// Type1DropDownList control.
+        /// TypeDropDownList control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Type1DropDownList;
+        protected global::System.Web.UI.WebControls.DropDownList TypeDropDownList;
 
         /// <summary>
-        /// Cargo1DropDownList control.
+        /// CargoDropDownList control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Cargo1DropDownList;
+        protected global::System.Web.UI.WebControls.DropDownList CargoDropDownList;
 
         /// <summary>
-        /// Type2DropDownList control.
+        /// StartDateDropDownList control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Type2DropDownList;
+        protected global::System.Web.UI.WebControls.DropDownList StartDateDropDownList;
 
         /// <summary>
-        /// Cargo2DropDownList control.
+        /// EndDateDropDownList control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Cargo2DropDownList;
-
-        /// <summary>
-        /// Type3DropDownList control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Type3DropDownList;
-
-        /// <summary>
-        /// Cargo3DropDownList control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Cargo3DropDownList;
-
-        /// <summary>
-        /// OtherCargoDropDownList control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList OtherCargoDropDownList;
+        protected global::System.Web.UI.WebControls.DropDownList EndDateDropDownList;
 
         /// <summary>
         /// btnSearchQuery control.

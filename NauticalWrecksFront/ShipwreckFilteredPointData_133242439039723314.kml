@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Capo Vite">
+    <name />
+    <description>Name 1: Capo Vite
+Name 2: 
+Start Date: 1300
+End Date: 1500
+DateQ: ca / ?
+YearFound: 
+Cargo: metal
+Type: 2 lead plates
+Width: 
+Depth: 72.00
+Gear: 
+Capacity: 
+Comments: metal sheaves and timbers
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.4,42.866999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

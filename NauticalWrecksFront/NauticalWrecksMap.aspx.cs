@@ -27,6 +27,8 @@ namespace NauticalWrecksFront
     public partial class NauticalWrecksMap : System.Web.UI.Page
     {
         DataFilterModel filter = null;
+        FilterType selectedFilter = FilterType.Cargo;
+        object selectedValue;
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -35,77 +37,60 @@ namespace NauticalWrecksFront
                 var tool = new DataAccessTool();
                 var depth = tool.GetDepthFilter();
                 var gear = tool.GetGearFilter();
-                var type1 = tool.GetTypeFilterByName("type1");
-                var type2 = tool.GetTypeFilterByName("type2");
-                var type3 = tool.GetTypeFilterByName("type3");
-                var cargo1 = tool.GetCargoFilterByName("cargo1");
-                var cargo2 = tool.GetCargoFilterByName("cargo2");
-                var cargo3 = tool.GetCargoFilterByName("cargo3");
-                var otherCargo = tool.GetCargoFilterByName("OtherCargo");
+                var type = tool.GetTypeFilterByName("type");
+                var cargo = tool.GetCargoFilterByName("cargo");
+                var startDate = tool.GetStartDateFilter();
+                var endDate = tool.GetEndDateFilter();
 
                 DepthDropDownList.DataSource = depth;
                 DepthDropDownList.DataValueField = "id";
                 DepthDropDownList.DataTextField = "name";
                 DepthDropDownList.DataBind();
 
-                Type1DropDownList.DataSource = type1;
-                Type1DropDownList.DataValueField = "id";
-                Type1DropDownList.DataTextField = "name";
-                Type1DropDownList.DataBind();
+                TypeDropDownList.DataSource = type;
+                TypeDropDownList.DataValueField = "id";
+                TypeDropDownList.DataTextField = "name";
+                TypeDropDownList.DataBind();
 
-                Type2DropDownList.DataSource = type2;
-                Type2DropDownList.DataValueField = "id";
-                Type2DropDownList.DataTextField = "name";
-                Type2DropDownList.DataBind();
+                CargoDropDownList.DataSource = cargo;
+                CargoDropDownList.DataValueField = "id";
+                CargoDropDownList.DataTextField = "name";
+                CargoDropDownList.DataBind();
 
-                Type3DropDownList.DataSource = type3;
-                Type3DropDownList.DataValueField = "id";
-                Type3DropDownList.DataTextField = "name";
-                Type3DropDownList.DataBind();
-
-                Cargo1DropDownList.DataSource = cargo1;
-                Cargo1DropDownList.DataValueField = "id";
-                Cargo1DropDownList.DataTextField = "name";
-                Cargo1DropDownList.DataBind();
-
-                Cargo2DropDownList.DataSource = cargo2;
-                Cargo2DropDownList.DataValueField = "id";
-                Cargo2DropDownList.DataTextField = "name";
-                Cargo2DropDownList.DataBind();
-
-                Cargo3DropDownList.DataSource = cargo3;
-                Cargo3DropDownList.DataValueField = "id";
-                Cargo3DropDownList.DataTextField = "name";
-                Cargo3DropDownList.DataBind();
-
-                OtherCargoDropDownList.DataSource = otherCargo;
-                OtherCargoDropDownList.DataValueField = "id";
-                OtherCargoDropDownList.DataTextField = "name";
-                OtherCargoDropDownList.DataBind();
 
                 GearDropDownList.DataSource = gear;
                 GearDropDownList.DataValueField = "id";
                 GearDropDownList.DataTextField = "name";
                 GearDropDownList.DataBind();
 
-                if (this.IsPostBack)
-                {
-                    filter = new DataFilterModel
-                    {
-                        Depth = Request.Form["DepthDropDownList"],
-                        Gear = Request.Form["GearDropDownList"],
-                        Type1 = Request.Form["Type1DropDownList"],
-                        Type2 = Request.Form["Type2DropDownList"],
-                        Type3 = Request.Form["Type3DropDownList"],
-                        Cargo1 = Request.Form["Cargo3DropDownList"],
-                        Cargo2 = Request.Form["Cargo3DropDownList"],
-                        Cargo3 = Request.Form["Cargo3DropDownList"],
-                        OtherCargo = Request.Form["OtherCargoDropDownList"]
-                    };
-                    RegisterAsyncTask(new PageAsyncTask(LoadSomeData));
+                StartDateDropDownList.DataSource = startDate;
+                StartDateDropDownList.DataValueField = "id";
+                StartDateDropDownList.DataTextField = "name";
+                StartDateDropDownList.DataBind();
 
-                }
+                EndDateDropDownList.DataSource = endDate;
+                EndDateDropDownList.DataValueField = "id";
+                EndDateDropDownList.DataTextField = "name";
+                EndDateDropDownList.DataBind();
+
+
                 //writeResults(FormSubmit());
+            }
+
+            if (this.IsPostBack)
+            {
+                //filter = new DataFilterModel
+                //{
+                //    Depth = Convert.ToDecimal(Request.Form["DepthDropDownList"]),
+                //    Gear = Request.Form["GearDropDownList"],
+                //    Type = Request.Form["TypeDropDownList"],
+                //    Cargo = Request.Form["CargoDropDownList"],
+                //    StartDate = Request.Form["Cargo3DropDownList"],
+                //    EndDate = Request.Form["Cargo3DropDownList"],
+                //    OtherCargo = Request.Form["OtherCargoDropDownList"]
+                //};
+                RegisterAsyncTask(new PageAsyncTask(LoadFilteredData));
+
             }
         }
 
@@ -118,6 +103,7 @@ namespace NauticalWrecksFront
 
             lblRecordsCount.Text = resp.Count.ToString();
         }
+
         public async System.Threading.Tasks.Task LoadFilteredData(List<SearchValues> searchValuesList)
         {
             CountValues resp = new CountValues();
@@ -128,21 +114,100 @@ namespace NauticalWrecksFront
             lblRecordsCount.Text = resp.Count.ToString();
         }
 
+        public async System.Threading.Tasks.Task LoadFilteredData()
+        {
+            if (selectedValue != null)
+            {
+                CountValues resp = new CountValues();
+                var tool = new DataAccessTool();
+                resp = await tool.GetFilteredShapesData(selectedFilter, selectedValue);
+                KmlNameProperty.Value = resp.Name;
+                lblRecordsCount.Text = resp.Count.ToString();
+            }
+        }
+
         protected async void btnSearchQuery_Click(object sender, EventArgs e)
         {
             lblRecordsCount.Text = string.Empty;
-            List<SearchValues> searchValueList = new List<SearchValues>();
-            SearchValues searchValues = new SearchValues();int i = 0;
-            if (!String.IsNullOrEmpty(DepthDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@UserDepth", DepthDropDownList.SelectedValue));  }
-            if (!String.IsNullOrEmpty(GearDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@UserGear", GearDropDownList.SelectedValue)); }
-            if (!String.IsNullOrEmpty(Type1DropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@Type1", Type1DropDownList.SelectedValue)); }
-            if (!String.IsNullOrEmpty(Cargo1DropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@Cargo1", Cargo1DropDownList.SelectedValue)); }
-            await LoadFilteredData(searchValueList);
+            //List<SearchValues> searchValueList = new List<SearchValues>();
+            //SearchValues searchValues = new SearchValues();int i = 0;
+            //if (!String.IsNullOrEmpty(DepthDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@UserDepth", DepthDropDownList.SelectedValue));  }
+            //if (!String.IsNullOrEmpty(GearDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@UserGear", GearDropDownList.SelectedValue)); }
+            //if (!String.IsNullOrEmpty(TypeDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@Type1", TypeDropDownList.SelectedValue)); }
+            //if (!String.IsNullOrEmpty(CargoDropDownList.SelectedValue)) { searchValueList.Add(new SearchValues("@Cargo1", CargoDropDownList.SelectedValue)); }
+            //await LoadFilteredData(searchValueList);
+            await LoadFilteredData();
         }
 
         protected async void btnGetAllRecords_Click(object sender, EventArgs e)
         {
             await LoadSomeData();
+        }
+
+        protected void CargoDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.Cargo;
+            selectedValue = Request.Form["CargoDropDownList"];
+            TypeDropDownList.ClearSelection();
+            DepthDropDownList.ClearSelection();
+            GearDropDownList.ClearSelection();
+            StartDateDropDownList.ClearSelection();
+            EndDateDropDownList.ClearSelection();
+        }
+
+        protected void TypeDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.Type;
+            selectedValue = Request.Form["TypeDropDownList"];
+            CargoDropDownList.ClearSelection();
+            DepthDropDownList.ClearSelection();
+            GearDropDownList.ClearSelection();
+            StartDateDropDownList.ClearSelection();
+            EndDateDropDownList.ClearSelection();
+        }
+
+        protected void GearDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.Gear;
+            selectedValue = Request.Form["GearDropDownList"];
+            TypeDropDownList.ClearSelection();
+            DepthDropDownList.ClearSelection();
+            CargoDropDownList.ClearSelection();
+            StartDateDropDownList.ClearSelection();
+            EndDateDropDownList.ClearSelection();
+        }
+
+        protected void DepthDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.Depth;
+            selectedValue = Convert.ToDecimal(Request.Form["DepthDropDownList"]);
+            TypeDropDownList.ClearSelection();
+            CargoDropDownList.ClearSelection();
+            GearDropDownList.ClearSelection();
+            StartDateDropDownList.ClearSelection();
+            EndDateDropDownList.ClearSelection();
+        }
+
+        protected void StartDateDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.StartDate;
+            selectedValue = Convert.ToDecimal(Request.Form["StartDateDropDownList"]);
+            TypeDropDownList.ClearSelection();
+            DepthDropDownList.ClearSelection();
+            GearDropDownList.ClearSelection();
+            CargoDropDownList.ClearSelection();
+            EndDateDropDownList.ClearSelection();
+        }
+
+        protected void EndDateDropDownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            selectedFilter = FilterType.EndDate;
+            selectedValue = Convert.ToDecimal(Request.Form["EndDateDropDownList"]);
+            TypeDropDownList.ClearSelection();
+            DepthDropDownList.ClearSelection();
+            GearDropDownList.ClearSelection();
+            StartDateDropDownList.ClearSelection();
+            CargoDropDownList.ClearSelection();
         }
     }
 }

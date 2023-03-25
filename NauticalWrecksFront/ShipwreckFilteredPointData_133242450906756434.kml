@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Garoupe 1, La">
+    <name />
+    <description>Name 1: Garoupe 1, La
+Name 2: 
+Start Date: 10
+End Date: 35
+DateQ: ca
+YearFound: 
+Cargo: amphoras
+Type: Dr2-4
+Width: 
+Depth: 12.00
+Gear: hemispheric lead container, terra cotta
+Capacity: 
+Comments: Fiori says wreck occurred in 2nd half of C1 AD
+Length: 
+Width: 
+Data source: P. Fiori 1972, 35-44.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.1500000000000004,43.549999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

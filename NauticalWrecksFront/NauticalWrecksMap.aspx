@@ -49,47 +49,33 @@ Date            Coder       vers		Comments
 			<asp:Button ID="btnGetAllRecords" runat="server" Text="View All Wrecks" CssClass="submit_btn" OnClick="btnGetAllRecords_Click" />
 		  <div>
 			 <label>Depth</label> <br />
-		    <asp:DropDownList ID="DepthDropDownList"  CssClass="mydropdownlist" runat="server" ToolTip="===Please Select Depth==="></asp:DropDownList>
+		    <asp:DropDownList ID="DepthDropDownList"  CssClass="mydropdownlist" runat="server" AutoPostBack="true" OnSelectedIndexChanged="DepthDropDownList_SelectedIndexChanged" ToolTip="===Please Select Depth==="></asp:DropDownList>
 		 </div>
 
 		<div>
 			<label>Gear</label>	  <br />				   
-		    <asp:DropDownList ID="GearDropDownList"   CssClass="mydropdownlist" runat ="server" ToolTip="===Please Select Gear==="></asp:DropDownList>
+		    <asp:DropDownList ID="GearDropDownList"   CssClass="mydropdownlist" runat ="server" AutoPostBack="true" OnSelectedIndexChanged="GearDropDownList_SelectedIndexChanged" ToolTip="===Please Select Gear==="></asp:DropDownList>
 		</div>
 	
 		<div>
-			<label>Type 1</label> <br />				   
-		   <asp:DropDownList ID="Type1DropDownList"  CssClass="mydropdownlist" runat="server"></asp:DropDownList>
+			<label>Type</label> <br />				   
+		   <asp:DropDownList ID="TypeDropDownList"  CssClass="mydropdownlist" runat="server" AutoPostBack="true" OnSelectedIndexChanged="TypeDropDownList_SelectedIndexChanged"></asp:DropDownList>
 		</div>
 
 		<div>
-			 <label>Cargo 1</label>	<br />				   
-		     <asp:DropDownList ID="Cargo1DropDownList" CssClass="mydropdownlist" runat="server"></asp:DropDownList>
+			 <label>Cargo</label>	<br />				   
+		     <asp:DropDownList ID="CargoDropDownList" CssClass="mydropdownlist" runat="server" AutoPostBack="true" OnSelectedIndexChanged="CargoDropDownList_SelectedIndexChanged"></asp:DropDownList>
 		</div>
 
 		<div>
-			<label>Type 2</label><br />					   
-		<asp:DropDownList ID="Type2DropDownList"  CssClass="mydropdownlist" runat="server"></asp:DropDownList>
+			<label>Start Date</label><br />					   
+		<asp:DropDownList ID="StartDateDropDownList"  CssClass="mydropdownlist" runat="server" AutoPostBack="true" OnSelectedIndexChanged="StartDateDropDownList_SelectedIndexChanged"></asp:DropDownList>
 		</div>
 		<div>
-			<label>Cargo 2</label>	<br />				    
-		<asp:DropDownList ID="Cargo2DropDownList" CssClass="mydropdownlist" runat="server"></asp:DropDownList>
+			<label>End Date</label><br />					   
+		<asp:DropDownList ID="EndDateDropDownList"  CssClass="mydropdownlist" runat="server" AutoPostBack="true" OnSelectedIndexChanged="EndDateDropDownList_SelectedIndexChanged"></asp:DropDownList>
 		</div>
 		
-		<div>
-			<label>Type 3</label>	<br />				  
-		   <asp:DropDownList ID="Type3DropDownList"  CssClass="mydropdownlist" runat="server"></asp:DropDownList>
-		</div>
-
-		<div>
-			<label>Cargo 3</label>	<br />				   
-		   <asp:DropDownList ID="Cargo3DropDownList" CssClass="mydropdownlist" runat="server"></asp:DropDownList>
-		</div>
-
-		<div>
-			<label>Other Cargo</label><br />
-		   <asp:DropDownList ID="OtherCargoDropDownList" CssClass="mydropdownlist" runat="server"></asp:DropDownList>
-		</div>
 		
 			<div>
 				<asp:Button ID="btnSearchQuery" runat="server" Text="Filter Search" CssClass="submit_btn" OnClick="btnSearchQuery_Click" />

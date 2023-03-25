@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Laurons 3, Les">
+    <name>Epave III</name>
+    <description>Name 1: Laurons 3, Les
+Name 2: Epave III
+Start Date: 300
+End Date: 400
+DateQ: 
+YearFound: 
+Cargo: coins
+Type: 2 coins (1 of Divus Antoninus Pius)
+Width: 4.60
+Depth: 2.00
+Gear: ballast stones, wooden arm of anchor with lead reinforcement collar, rigging items
+Capacity: 
+Comments: 
+Length: 10.00
+Width: 4.60
+Data source: P. Pomey and L. Long 1988, 23.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.0170000000000003,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Laurons 3, Les">
+    <name>Epave III</name>
+    <description>Name 1: Laurons 3, Les
+Name 2: Epave III
+Start Date: 300
+End Date: 400
+DateQ: 
+YearFound: 
+Cargo: wooden utensils, lamp, grain
+Type: 2 coins (1 of Divus Antoninus Pius)
+Width: 4.60
+Depth: 2.00
+Gear: ballast stones, wooden arm of anchor with lead reinforcement collar, rigging items
+Capacity: 
+Comments: 
+Length: 10.00
+Width: 4.60
+Data source: P. Pomey and L. Long 1988, 23.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.0170000000000003,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>

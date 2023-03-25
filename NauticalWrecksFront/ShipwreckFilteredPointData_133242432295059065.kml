@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Ladispoli 2">
+    <name />
+    <description>Name 1: Ladispoli 2
+Name 2: 
+Start Date: 25
+End Date: 100
+DateQ: ca / ?
+YearFound: 
+Cargo: ceramic
+Type: Arretine ware
+Width: 
+Depth: 20.00
+Gear: 2 lead anchor-stocks
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.1,41.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ladispoli 2">
+    <name />
+    <description>Name 1: Ladispoli 2
+Name 2: 
+Start Date: 25
+End Date: 100
+DateQ: ca / ?
+YearFound: 
+Cargo: lead jar, volute lamps, furniture, wooden box
+Type: Arretine ware
+Width: 
+Depth: 20.00
+Gear: 2 lead anchor-stocks
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.1,41.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ladispoli 2">
+    <name />
+    <description>Name 1: Ladispoli 2
+Name 2: 
+Start Date: 25
+End Date: 100
+DateQ: ca / ?
+YearFound: 
+Cargo: nothing reported
+Type: columns
+Width: 
+Depth: 20.00
+Gear: 2 lead anchor-stocks
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.1,41.917000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
