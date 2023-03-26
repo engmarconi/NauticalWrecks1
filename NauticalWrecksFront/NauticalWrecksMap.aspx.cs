@@ -32,98 +32,120 @@ namespace NauticalWrecksFront
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!Page.IsPostBack)
+            try
             {
-                var tool = new DataAccessTool();
-                var depth = tool.GetDepthFilter();
-                var gear = tool.GetGearFilter();
-                var type = tool.GetTypeFilterByName("type");
-                var cargo = tool.GetCargoFilterByName("cargo");
-                var startDate = tool.GetStartDateFilter();
-                var endDate = tool.GetEndDateFilter();
+                if (!Page.IsPostBack)
+                {
+                    var tool = new DataAccessTool();
+                    var depth = tool.GetDepthFilter();
+                    var gear = tool.GetGearFilter();
+                    var type = tool.GetTypeFilterByName("type");
+                    var cargo = tool.GetCargoFilterByName("cargo");
+                    var startDate = tool.GetStartDateFilter();
+                    var endDate = tool.GetEndDateFilter();
 
-                DepthDropDownList.DataSource = depth;
-                DepthDropDownList.DataValueField = "id";
-                DepthDropDownList.DataTextField = "name";
-                DepthDropDownList.DataBind();
+                    DepthDropDownList.DataSource = depth;
+                    DepthDropDownList.DataValueField = "id";
+                    DepthDropDownList.DataTextField = "name";
+                    DepthDropDownList.DataBind();
 
-                TypeDropDownList.DataSource = type;
-                TypeDropDownList.DataValueField = "id";
-                TypeDropDownList.DataTextField = "name";
-                TypeDropDownList.DataBind();
+                    TypeDropDownList.DataSource = type;
+                    TypeDropDownList.DataValueField = "id";
+                    TypeDropDownList.DataTextField = "name";
+                    TypeDropDownList.DataBind();
 
-                CargoDropDownList.DataSource = cargo;
-                CargoDropDownList.DataValueField = "id";
-                CargoDropDownList.DataTextField = "name";
-                CargoDropDownList.DataBind();
-
-
-                GearDropDownList.DataSource = gear;
-                GearDropDownList.DataValueField = "id";
-                GearDropDownList.DataTextField = "name";
-                GearDropDownList.DataBind();
-
-                StartDateDropDownList.DataSource = startDate;
-                StartDateDropDownList.DataValueField = "id";
-                StartDateDropDownList.DataTextField = "name";
-                StartDateDropDownList.DataBind();
-
-                EndDateDropDownList.DataSource = endDate;
-                EndDateDropDownList.DataValueField = "id";
-                EndDateDropDownList.DataTextField = "name";
-                EndDateDropDownList.DataBind();
+                    CargoDropDownList.DataSource = cargo;
+                    CargoDropDownList.DataValueField = "id";
+                    CargoDropDownList.DataTextField = "name";
+                    CargoDropDownList.DataBind();
 
 
-                //writeResults(FormSubmit());
+                    GearDropDownList.DataSource = gear;
+                    GearDropDownList.DataValueField = "id";
+                    GearDropDownList.DataTextField = "name";
+                    GearDropDownList.DataBind();
+
+                    StartDateDropDownList.DataSource = startDate;
+                    StartDateDropDownList.DataValueField = "id";
+                    StartDateDropDownList.DataTextField = "name";
+                    StartDateDropDownList.DataBind();
+
+                    EndDateDropDownList.DataSource = endDate;
+                    EndDateDropDownList.DataValueField = "id";
+                    EndDateDropDownList.DataTextField = "name";
+                    EndDateDropDownList.DataBind();
+
+
+                    //writeResults(FormSubmit());
+                }
+
+                if (this.IsPostBack)
+                {
+                    //filter = new DataFilterModel
+                    //{
+                    //    Depth = Convert.ToDecimal(Request.Form["DepthDropDownList"]),
+                    //    Gear = Request.Form["GearDropDownList"],
+                    //    Type = Request.Form["TypeDropDownList"],
+                    //    Cargo = Request.Form["CargoDropDownList"],
+                    //    StartDate = Request.Form["Cargo3DropDownList"],
+                    //    EndDate = Request.Form["Cargo3DropDownList"],
+                    //    OtherCargo = Request.Form["OtherCargoDropDownList"]
+                    //};
+                    RegisterAsyncTask(new PageAsyncTask(LoadFilteredData));
+
+                }
             }
-
-            if (this.IsPostBack)
+            catch
             {
-                //filter = new DataFilterModel
-                //{
-                //    Depth = Convert.ToDecimal(Request.Form["DepthDropDownList"]),
-                //    Gear = Request.Form["GearDropDownList"],
-                //    Type = Request.Form["TypeDropDownList"],
-                //    Cargo = Request.Form["CargoDropDownList"],
-                //    StartDate = Request.Form["Cargo3DropDownList"],
-                //    EndDate = Request.Form["Cargo3DropDownList"],
-                //    OtherCargo = Request.Form["OtherCargoDropDownList"]
-                //};
-                RegisterAsyncTask(new PageAsyncTask(LoadFilteredData));
 
             }
         }
 
         public async System.Threading.Tasks.Task LoadSomeData()
         {
-            CountValues resp = new CountValues();
-            var tool = new DataAccessTool();
-            resp = await tool.GetData();
-            KmlNameProperty.Value = resp.Name;
+            try
+            {
+                CountValues resp = new CountValues();
+                var tool = new DataAccessTool();
+                resp = await tool.GetData();
+                KmlNameProperty.Value = resp.Name;
 
-            lblRecordsCount.Text = resp.Count.ToString();
+                lblRecordsCount.Text = resp.Count.ToString();
+            }
+            catch
+            {
+
+            }
         }
 
         public async System.Threading.Tasks.Task LoadFilteredData(List<SearchValues> searchValuesList)
         {
-            CountValues resp = new CountValues();
-            var tool = new DataAccessTool();
-            resp = await tool.GetFilteredShapesData(searchValuesList, filter);
-            KmlNameProperty.Value = resp.Name;
+            try
+            {
+                CountValues resp = new CountValues();
+                var tool = new DataAccessTool();
+                resp = await tool.GetFilteredShapesData(searchValuesList, filter);
+                KmlNameProperty.Value = resp.Name;
 
-            lblRecordsCount.Text = resp.Count.ToString();
+                lblRecordsCount.Text = resp.Count.ToString();
+            }
+            catch { }
         }
 
         public async System.Threading.Tasks.Task LoadFilteredData()
         {
-            if (selectedValue != null)
+            try
             {
-                CountValues resp = new CountValues();
-                var tool = new DataAccessTool();
-                resp = await tool.GetFilteredShapesData(selectedFilter, selectedValue);
-                KmlNameProperty.Value = resp.Name;
-                lblRecordsCount.Text = resp.Count.ToString();
+                if (selectedValue != null)
+                {
+                    CountValues resp = new CountValues();
+                    var tool = new DataAccessTool();
+                    resp = await tool.GetFilteredShapesData(selectedFilter, selectedValue);
+                    KmlNameProperty.Value = resp.Name;
+                    lblRecordsCount.Text = resp.Count.ToString();
+                }
             }
+            catch { }
         }
 
         protected async void btnSearchQuery_Click(object sender, EventArgs e)
